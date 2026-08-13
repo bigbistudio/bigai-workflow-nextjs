@@ -1,0 +1,46 @@
+{
+    "testimonials": [
+        {
+            "id": "lumina_tech",
+            "name": "Sarah Jenkins",
+            "role": "CEO at Lumina Tech",
+            "quote": "Implementing bigA.i was a game-changer. We are now moving 3x faster with the same headcount. It's the most impactful decision we've made this year.",
+            "avatar": "/avatars/sarah-jenkins.png"
+        },
+        {
+            "id": "future_logix",
+            "name": "Aiko Tanaka",
+            "role": "Director at FutureLogix",
+            "quote": "This isn't just automation; it's true operational intelligence. bigA.i has completely redefined the standard for our industry's workflow engine.",
+            "avatar": "/avatars/aiko-tanaka.png"
+        },
+        {
+            "id": "vector_flow",
+            "name": "Marcus Chen",
+            "role": "Head of Ops at Vector Flow",
+            "quote": "The real-time analytics dashboard is a revelation. I can finally see the exact ROI of every automated workflow down to the millisecond.",
+            "avatar": "/avatars/marcus-chen.png"
+        },
+        {
+            "id": "cloudscale",
+            "name": "James Henderson",
+            "role": "Founder at CloudScale",
+            "quote": "The ultimate tool for high-growth startups. It automates complex operational logic with zero errors, allowing us to scale without the friction.",
+            "avatar": "/avatars/james-henderson.png"
+        },
+        {
+            "id": "irongate_solutions",
+            "name": "David Vogt",
+            "role": "CTO at IronGate Solutions",
+            "quote": "Unmatched precision, reliability, and bank-grade security. We integrated our legacy systems in hours, not weeks. The API flexibility is simply world-class.",
+            "avatar": "/avatars/david-vogt.png"
+        },
+        {
+            "id": "novastream",
+            "name": "Elena Rodriguez",
+            "role": "PM at NovaStream",
+            "quote": "Setup took minutes, but the impact is permanent. bigAI has finally liberated my team from the chaos of manual data entry and repetitive tasks.",
+            "avatar": "/avatars/elena-rodriguez.png"
+        }
+    ]
+}

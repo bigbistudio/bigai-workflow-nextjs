@@ -1,0 +1,113 @@
+{
+    "meta": {
+        "slug": "cloudscale",
+        "featured": false,
+        "status": "published",
+        "publishedAt": "2026-06-23T07:11:00Z",
+        "title": "CloudScale scales operations without friction",
+        "bannerImage": "/case-studies/cloudscale-banner.png",
+        "cardIcon": "CloudFog"
+    },
+    "company": {
+        "name": "CloudScale",
+        "logo": "/case-studies/cloudscale-logo.svg",
+        "website": "cloudscale.fr",
+        "industry": "Cloud Infrastructure",
+        "teamSize": "40+ employees",
+        "useCase": "Operational scaling"
+    },
+    "testimonial": {
+        "author": "James Henderson",
+        "role": "Founder, CloudScale",
+        "quote": "The ultimate tool for high-growth startups. It automates complex operational logic with zero errors, allowing us to scale without the friction."
+    },
+    "content": [
+        {
+            "_type": "heading",
+            "level": 2,
+            "text": "Overview"
+        },
+        {
+            "_type": "paragraph",
+            "text": "CloudScale was growing rapidly, but operational complexity was increasing alongside it. As new processes were introduced, maintaining efficiency became more difficult."
+        },
+        {
+            "_type": "paragraph",
+            "text": "Manual workflows and fragmented systems created friction, slowing down execution and increasing the risk of errors."
+        },
+        {
+            "_type": "heading",
+            "level": 2,
+            "text": "The Challenge"
+        },
+        {
+            "_type": "paragraph",
+            "text": "As the company scaled, operational processes became harder to manage."
+        },
+        {
+            "_type": "image",
+            "src": "/case-studies/cloudscale-the-challenge.png",
+            "alt": "The challenge of CloudScale"
+        },
+        {
+            "_type": "paragraph",
+            "text": "Complex workflows required constant oversight, and manual coordination introduced inefficiencies. Scaling further would have required significant investment in operations and personnel."
+        },
+        {
+            "_type": "paragraph",
+            "text": "The team needed a way to scale without adding friction."
+        },
+        {
+            "_type": "heading",
+            "level": 2,
+            "text": "The Approach"
+        },
+        {
+            "_type": "paragraph",
+            "text": "CloudScale implemented bigA.i to automate complex operational workflows."
+        },
+        {
+            "_type": "paragraph",
+            "text": "Processes that previously required manual input were transformed into automated systems. Workflows ran continuously with minimal intervention, ensuring consistency and reliability."
+        },
+        {
+            "_type": "paragraph",
+            "text": "This allowed the team to focus on growth rather than operational overhead."
+        },
+        {
+            "_type": "heading",
+            "level": 2,
+            "text": "The Impact"
+        },
+        {
+            "_type": "paragraph",
+            "text": "Operations became more efficient and scalable."
+        },
+        {
+            "_type": "paragraph",
+            "text": "The team was able to handle increased demand without introducing complexity or errors."
+        },
+        {
+            "_type": "list",
+            "style": "bullet",
+            "items": [
+                "Reduced operational friction",
+                "Zero-error workflow execution",
+                "Scaled efficiently without additional overhead"
+            ]
+        },
+        {
+            "_type": "heading",
+            "level": 2,
+            "text": "Conclusion"
+        },
+        {
+            "_type": "paragraph",
+            "text": "CloudScale achieved sustainable growth by simplifying operations through automation."
+        },
+        {
+            "_type": "paragraph",
+            "text": "bigA.i enabled the team to scale with confidence and maintain efficiency at every stage."
+        }
+    ]
+}

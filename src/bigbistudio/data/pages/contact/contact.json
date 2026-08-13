@@ -1,0 +1,39 @@
+{
+    "sections": {
+        "heroSimple": {
+            "title": "Contact Us",
+            "subtitle": "Get in touch with our team for product questions, \nsupport, or partnership opportunities."
+        },
+        "contactForm": {
+            "id": "contact-form",
+            "eyebrow": "Contact",
+            "title": "Let's architect \nyour future.",
+            "note": [
+                "Request a live demo",
+                "Onboarding & Support",
+                "Security & Scalability"
+            ]
+        },
+        "info": [
+            {
+                "title": "sales@big.ai",
+                "icon": "Mail",
+                "link": "mailto:sales@big.ai"
+            },
+            {
+                "title": "+49 89 9876 5432",
+                "icon": "Phone",
+                "link": "tel:+491710000000"
+            },
+            {
+                "title": "Maximilianstraße 12, 80539 München, Germany",
+                "icon": "Map",
+                "link": "https://maps.app.goo.gl/KbTi4ceQqzTAfhYL7"
+            }
+        ],
+        "faqGeneral": {
+            "eyebrow": "FAQs",
+            "title": "Questions \nand answers"
+        }
+    }
+}

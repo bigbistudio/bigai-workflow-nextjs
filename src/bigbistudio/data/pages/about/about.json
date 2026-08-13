@@ -1,0 +1,154 @@
+{
+    "sections": {
+        "heroSimple": {
+            "title": "Bringing Intelligence \nBack to Workflows",
+            "subtitle": "Software promised automation, but too often it creates more complexity. At bigA.i, we’re building a new generation of tools where AI helps teams move faster, think clearer, and focus on meaningful work."
+        },
+        "content": [
+            {
+                "_type": "image",
+                "src": "/about/bigai-office.png",
+                "width": "800",
+                "rounded": 24
+            },
+            {
+                "_type": "spacer",
+                "size": 40
+            },
+            {
+                "_type": "eyebrow",
+                "text": "Our Vision"
+            },
+            {
+                "_type": "heading",
+                "level": 2,
+                "text": "A Better Way to Work With AI",
+                "marginTop": 10
+            },
+            {
+                "_type": "spacer",
+                "size": 10
+            },
+            {
+                "_type": "paragraph",
+                "text": "AI has incredible potential, yet most teams struggle to translate it into real productivity. Tools are fragmented, workflows are manual, and valuable time is lost between systems."
+            },
+            {
+                "_type": "paragraph",
+                "text": "We started bigA.i with a simple belief: AI should work quietly in the background — helping teams automate processes, connect systems, and unlock new leverage."
+            },
+            {
+                "_type": "paragraph",
+                "text": "Not just another tool.\n A better way to run modern workflows."
+            },
+            {
+                "_type": "spacer",
+                "size": 48
+            },
+            {
+                "_type": "eyebrow",
+                "text": "What We're Building"
+            },
+            {
+                "_type": "heading",
+                "level": 2,
+                "text": "An AI Workflow Platform for Modern Teams",
+                "marginTop": 10
+            },
+            {
+                "_type": "spacer",
+                "size": 10
+            },
+            {
+                "_type": "paragraph",
+                "text": "bigA.i helps teams design and automate workflows powered by intelligent agents. From simple task automation to complex multi-step operations, our platform connects tools, data, and AI into a single streamlined system."
+            },
+            {
+                "_type": "paragraph",
+                "text": "The goal is simple: less operational overhead, more time for creative and strategic work."
+            },
+            {
+                "_type": "card",
+                "numberOfCols": 3,
+                "items": [
+                    {
+                        "style": "medium",
+                        "aboveText": "Clarity Over Complexity",
+                        "belowText": "Technology should reduce friction, not introduce it."
+                    },
+                    {
+                        "style": "medium",
+                        "aboveText": "Automation With Purpose",
+                        "belowText": "Focus on automating the work that actually creates leverage."
+                    },
+                    {
+                        "style": "medium",
+                        "aboveText": "Built for Speed",
+                        "belowText": "Modern teams move fast. Your tools should too."
+                    }
+                ],
+                "marginTop": 28
+            },
+            {
+                "_type": "spacer",
+                "size": 35
+            },
+            {
+                "_type": "eyebrow",
+                "text": "Our Apporach"
+            },
+            {
+                "_type": "heading",
+                "level": 2,
+                "text": "Crafted With Care",
+                "marginTop": 10
+            },
+            {
+                "_type": "spacer",
+                "size": 10
+            },
+            {
+                "_type": "paragraph",
+                "text": "We believe great software is defined by the details."
+            },
+            {
+                "_type": "paragraph",
+                "text": "From the speed of every interaction to the clarity of every workflow, we obsess over creating tools that feel intuitive, reliable, and enjoyable to use."
+            },
+            {
+                "_type": "paragraph",
+                "text": "We build for teams who care about quality — the ones shaping the future of work."
+            }
+        ],
+        "team": {
+            "title": "Meet the team \nbehind bigA.i",
+            "subtitle": "bigA.i is built by designers, engineers, and product thinkers who care deeply about creating meaningful tools.",
+            "additionalText": "We believe the best products come from small teams with clear focus, strong craft, and a deep understanding of the problems they solve."
+        },
+        "clientLogos": {
+            "title": "Trusted by operations teams at fast-growing scaleups."
+        },
+        "testimonials": {
+            "title": "Why high-growth scaleups choose bigA.i"
+        },
+        "blog": {
+            "id": "blog-section",
+            "eyebrow": "Blog",
+            "title": "Insights",
+            "subtitle": "Thoughts on automation, workflows, and how modern teams build and operate at scale.",
+            "blogSlugs": [
+                "building-systems-that-scale-with-you",
+                "speed-comes-from-systems-not-mindset",
+                "the-hidden-cost-of-manual-workflows"
+            ],
+            "buttons": [
+                {
+                    "btnType": "ghost",
+                    "btnTitle": "Read More",
+                    "btnUrl": "/blog",
+                    "btnIcon": "ArrowRight"
+                }
+            ]
+        }
+    }
+}

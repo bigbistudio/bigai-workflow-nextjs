@@ -1,0 +1,124 @@
+{
+    "meta": {
+        "slug": "vector-flow",
+        "featured": false,
+        "status": "published",
+        "publishedAt": "2026-04-22T08:11:00Z",
+        "title": "Vector Flow measures workflow ROI in real time",
+        "bannerImage": "/case-studies/vectorflow-banner.png",
+        "cardIcon": "Signpost"
+    },
+    "company": {
+        "name": "Vector Flow",
+        "logo": "/case-studies/vectorflow-logo.svg",
+        "website": "vector-flow.com",
+        "industry": "Logistics Technology",
+        "teamSize": "120+ employees",
+        "useCase": "Workflow analytics"
+    },
+    "testimonial": {
+        "author": "Marcus Chen",
+        "role": "Head of Operations, Vector Flow",
+        "quote": "The real-time analytics dashboard is a revelation. I can finally see the exact ROI of every automated workflow down to the millisecond."
+    },
+    "content": [
+        {
+            "_type": "heading",
+            "level": 2,
+            "text": "Overview"
+        },
+        {
+            "_type": "paragraph",
+            "text": "Vector Flow had already invested heavily in automation, but lacked a clear understanding of how those workflows were performing. While processes were running, the team had limited visibility into their actual impact on efficiency and revenue."
+        },
+        {
+            "_type": "paragraph",
+            "text": "As operations scaled, the need for precise measurement became critical. Without reliable data, it was difficult to optimize workflows or identify which automations were delivering real value."
+        },
+        {
+            "_type": "heading",
+            "level": 2,
+            "text": "The Challenge"
+        },
+        {
+            "_type": "paragraph",
+            "text": "Despite having multiple automation systems in place, Vector Flow struggled to measure performance effectively."
+        },
+        {
+            "_type": "paragraph",
+            "text": "Data was fragmented across tools, and reporting required manual effort. This made it difficult to track ROI, identify inefficiencies, or make informed decisions about where to invest further."
+        },
+        {
+            "_type": "paragraph",
+            "text": "Without real-time insights, optimization cycles were slow and often based on assumptions rather than data."
+        },
+        {
+            "_type": "heading",
+            "level": 2,
+            "text": "The Approach"
+        },
+        {
+            "_type": "paragraph",
+            "text": "Vector Flow implemented bigA.i to centralize workflow analytics and provide real-time visibility into performance."
+        },
+        {
+            "_type": "image",
+            "src": "/case-studies/vectorflow-the-approach.png",
+            "alt": "The approach of Vector Flow"
+        },
+        {
+            "_type": "paragraph",
+            "text": "All workflows were connected to a unified dashboard, allowing the team to monitor execution, track outcomes, and measure ROI instantly. Metrics that were previously inaccessible became available in real time."
+        },
+        {
+            "_type": "paragraph",
+            "text": "This enabled teams to quickly identify bottlenecks, refine processes, and continuously improve operational efficiency."
+        },
+        {
+            "_type": "heading",
+            "level": 2,
+            "text": "The Impact"
+        },
+        {
+            "_type": "paragraph",
+            "text": "With full visibility into their workflows, Vector Flow transformed how they approached operations."
+        },
+        {
+            "_type": "paragraph",
+            "text": "Decisions became data-driven, optimization cycles accelerated, and the team gained confidence in the value of their automation systems."
+        },
+        {
+            "_type": "card",
+            "items": [
+                {
+                    "aboveText": "100%",
+                    "belowText": "visibility into workflow performance"
+                },
+                {
+                    "aboveText": "2x",
+                    "belowText": "faster optimization cycles"
+                }
+            ]
+        },
+        {
+            "_type": "list",
+            "style": "bullet",
+            "items": [
+                "Improved operational decision-making"
+            ]
+        },
+        {
+            "_type": "heading",
+            "level": 2,
+            "text": "Conclusion"
+        },
+        {
+            "_type": "paragraph",
+            "text": "By turning data into actionable insight, Vector Flow unlocked the full potential of their automation strategy."
+        },
+        {
+            "_type": "paragraph",
+            "text": "bigA.i made it possible to not just run workflows — but truly understand and optimize them."
+        }
+    ]
+}

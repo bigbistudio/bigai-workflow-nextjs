@@ -1,0 +1,32 @@
+{
+    "phases": [
+        {
+            "id": "phase01",
+            "phase": "PHASE 01: INTELLIGENT DISCOVERY",
+            "ui": "ui-audit",
+            "title": "Visualize Your Efficiency Gaps.",
+            "description": "Our AI maps your workflows to pinpoint hidden bottlenecks and high-ROI opportunities for immediate impact."
+        },
+        {
+            "id": "phase02",
+            "phase": "PHASE 02: STRATEGIC DESIGN",
+            "ui": "ui-builder",
+            "title": "Engineering Precision Without Code.",
+            "description": "Design sophisticated agents effortlessly. Drag-and-drop logic chains to build workflows aligned perfectly with your business rules."
+        },
+        {
+            "id": "phase03",
+            "phase": "PHASE 03: SEAMLESS DEPLOYMENT",
+            "ui": "ui-integration",
+            "title": "Bridge the Gap Between Design and Reality.",
+            "description": "Go live instantly via secure APIs. Seamlessly integrate agents into your existing systems with zero downtime."
+        },
+        {
+            "id": "phase04",
+            "phase": "PHASE 04: ADAPTIVE EVOLUTION",
+            "ui": "ui-performance",
+            "title": "Performance That Sharpens Over Time.",
+            "description": "The AI refines itself daily. Continuous learning loops ensure workflows become faster and smarter as you scale."
+        }
+    ]
+}

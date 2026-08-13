@@ -1,0 +1,60 @@
+{
+    "plans": [
+        {
+            "title": "Starter",
+            "popular": false,
+            "currencySign": "€",
+            "priceLabel": "0",
+            "priceNote": "Free for everyone",
+            "benefits": [
+                "Up to 5 Autonomous Agents",
+                "Standard Execution Speed",
+                "Access to 50+ Basic Integrations",
+                "Community Support",
+                "Standard Security Encryption"
+            ],
+            "cta": {
+                "label": "Get started",
+                "href": "/contact"
+            }
+        },
+        {
+            "title": "Pro",
+            "popular": true,
+            "currencySign": "€",
+            "monthlyPrice": 129,
+            "yearlyPrice": 99,
+            "priceNote": "Billed yearly",
+            "benefits": [
+                "Unlimited Autonomous Agents",
+                "Priority Execution Queue",
+                "500+ Advanced Integrations",
+                "Advanced If/Else Conditional Logic",
+                "Priority Email & Chat Support",
+                "Detailed ROI & Analytics Dashboard"
+            ],
+            "cta": {
+                "label": "Get started",
+                "href": "/contact"
+            }
+        },
+        {
+            "title": "Enterprise",
+            "popular": false,
+            "priceLabel": "Custom Pricing",
+            "priceNote": "Annual billing only",
+            "benefits": [
+                "Everything in Pro",
+                "Dedicated Server Infrastructure",
+                "Bank-Grade SOC2 Type II Compliance",
+                "Custom SLA & Uptime Guarantees",
+                "Dedicated Account Manager",
+                "On-premise Deployment Options"
+            ],
+            "cta": {
+                "label": "Contact us",
+                "href": "/contact"
+            }
+        }
+    ]
+}

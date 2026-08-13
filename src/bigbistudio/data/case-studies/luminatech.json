@@ -1,0 +1,128 @@
+{
+    "meta": {
+        "slug": "lumina-tech",
+        "featured": false,
+        "status": "published",
+        "publishedAt": "2026-02-22T08:11:00Z",
+        "title": "Lumina Tech scales operations without increasing headcount",
+        "bannerImage": "/case-studies/luminatech-banner.png",
+        "cardIcon": "Wallet"
+    },
+    "company": {
+        "name": "Lumina Tech",
+        "logo": "/case-studies/luminatech-logo.svg",
+        "website": "lumina-tech.com",
+        "industry": "B2B SaaS",
+        "teamSize": "80+ employees",
+        "useCase": "Workflow automation"
+    },
+    "testimonial": {
+        "author": "Sarah Jenkins",
+        "role": "CEO, Lumina Tech",
+        "quote": "Implementing bigA.i was a game-changer. We are now moving 3x faster with the same headcount. It's the most impactful decision we've made this year."
+    },
+    "content": [
+        {
+            "_type": "heading",
+            "level": 2,
+            "text": "Overview"
+        },
+        {
+            "_type": "paragraph",
+            "text": "Lumina Tech is a fast-growing SaaS company focused on delivering data-driven solutions for modern teams. As the company scaled, operational complexity increased across departments, creating friction in execution and slowing down overall velocity."
+        },
+        {
+            "_type": "paragraph",
+            "text": "Despite having a strong team in place, internal processes relied heavily on manual coordination and repetitive workflows. As demand grew, it became clear that scaling further would require either significant hiring or a fundamental shift in how work was executed."
+        },
+        {
+            "_type": "heading",
+            "level": 2,
+            "text": "The Challenge"
+        },
+        {
+            "_type": "paragraph",
+            "text": "Like many growing teams, Lumina Tech reached a point where operational efficiency became a bottleneck."
+        },
+        {
+            "_type": "paragraph",
+            "text": "Manual workflows introduced delays across teams, especially in areas that required coordination between product, operations, and customer-facing functions. Tasks that should have been automated were handled manually, creating inconsistencies and limiting the team’s ability to move quickly."
+        },
+        {
+            "_type": "paragraph",
+            "text": "Increasing headcount was an option, but it would introduce additional complexity and cost. The team needed a way to scale execution without scaling overhead."
+        },
+        {
+            "_type": "heading",
+            "level": 2,
+            "text": "The Approach"
+        },
+        {
+            "_type": "paragraph",
+            "text": "Lumina Tech implemented bigA.i to automate and streamline their internal workflows."
+        },
+        {
+            "_type": "image",
+            "src": "/case-studies/luminatech-the-approach.png",
+            "alt": "The approach of LuminaTech"
+        },
+        {
+            "_type": "paragraph",
+            "text": "Instead of relying on manual processes, the team redesigned key operations using AI-powered automation. Workflows were structured to handle repetitive tasks automatically, while intelligent routing ensured that work moved efficiently across teams."
+        },
+        {
+            "_type": "paragraph",
+            "text": "This shift reduced dependency on manual coordination and allowed teams to focus on higher-impact work. Processes that previously required multiple steps and approvals were simplified into automated flows that ran continuously in the background."
+        },
+        {
+            "_type": "heading",
+            "level": 2,
+            "text": "The Impact"
+        },
+        {
+            "_type": "paragraph",
+            "text": "The results were immediate and measurable."
+        },
+        {
+            "_type": "paragraph",
+            "text": "Execution speed increased significantly as workflows became faster and more reliable. Tasks that once required manual input were completed automatically, reducing delays and improving consistency across the organization."
+        },
+        {
+            "_type": "paragraph",
+            "text": "Most importantly, Lumina Tech achieved this without increasing headcount. The existing team was able to handle a higher volume of work while maintaining quality and focus."
+        },
+        {
+            "_type": "card",
+            "items": [
+                {
+                    "aboveText": "3x",
+                    "belowText": "faster execution"
+                },
+                {
+                    "aboveText": "-50%",
+                    "belowText": "manual workload"
+                }
+            ]
+        },
+        {
+            "_type": "list",
+            "style": "bullet",
+            "items": [
+                "Scaled operations without additional hiring"
+            ]
+        },
+        {
+            "_type": "heading",
+            "level": 2,
+            "text": "Conclusion"
+        },
+        {
+            "_type": "paragraph",
+            "text": "By rethinking how work gets done, Lumina Tech transformed its operations from manual and fragmented to automated and scalable."
+        },
+        {
+            "_type": "paragraph",
+            "text": "bigA.i enabled the team to move faster, operate more efficiently, and focus on building products — not managing processes."
+        }
+    ]
+}

@@ -1,0 +1,66 @@
+{
+  "home": {
+    "title": "AI Workflow & Automation Website Template",
+    "description": "Launch your AI startup faster with a modern Next.js website template featuring reusable components, responsive layouts, and production-ready pages."
+  },
+
+  "features": {
+    "title": "Features",
+    "description": "Explore the features included in the template, from reusable UI components and SEO optimization to responsive layouts and developer-friendly architecture."
+  },
+
+  "caseStudies": {
+    "title": "Case Studies",
+    "description": "Discover real-world examples and showcase projects built with the AI Workflow & Automation Website Template."
+  },
+
+  "pricing": {
+    "title": "Pricing",
+    "description": "Compare plans and choose the option that best fits your project, team, and support requirements.",
+    "keywords": [
+      "pricing",
+      "nextjs",
+      "starter"
+    ]
+  },
+
+  "about": {
+    "title": "About",
+    "description": "Learn more about bigA.i and our mission to build high-quality templates and tools for modern web development."
+  },
+
+  "blog": {
+    "title": "Blog",
+    "description": "Read tutorials, product updates, and best practices for building modern websites with Next.js, AI, and automation."
+  },
+
+  "contact": {
+    "title": "Contact",
+    "description": "Get in touch with bigA.i to ask questions, request support, or discuss your next web project."
+  },
+
+  "privacyPolicy": {
+    "title": "Privacy Policy",
+    "description": "Learn how we collect, use, store, and protect your personal information when you use our website and services."
+  },
+
+  "termsOfService": {
+    "title": "Terms of Service",
+    "description": "Read the terms and conditions that govern your access to and use of the bigA.i website and products."
+  },
+
+  "cookiePolicy": {
+    "title": "Cookie Policy",
+    "description": "Learn how we use cookies and similar technologies to improve your browsing experience and analyze website usage."
+  },
+
+  "comingSoon": {
+    "title": "Coming Soon",
+    "description": "We're working on something exciting. Check back soon to see what's coming next from bigA.i."
+  },
+
+  "notFound": {
+    "title": "404 - Page Not Found",
+    "description": "The page you're looking for couldn't be found. Return to the homepage or explore other sections of our website."
+  }
+}

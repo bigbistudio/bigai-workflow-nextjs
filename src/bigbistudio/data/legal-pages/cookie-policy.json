@@ -1,0 +1,79 @@
+{
+    "slug": "cookie-policy",
+    "title": "Cookie Policy",
+    "description": "This Cookie Policy explains how we use cookies and similar technologies to recognize you when you visit our website.",
+    "effectiveDate": "2026-08-06T15:15:00Z",
+    "lastUpdated": "2026-10-28T15:15:00Z",
+    "content": [
+        {
+            "_type": "heading",
+            "level": 2,
+            "text": "1. Introduction"
+        },
+        {
+            "_type": "paragraph",
+            "text": "This Cookie Policy explains what cookies are and how [Product / Template Name] uses them on our website and services."
+        },
+        {
+            "_type": "heading",
+            "level": 2,
+            "text": "2. What Are Cookies?"
+        },
+        {
+            "_type": "paragraph",
+            "text": "Cookies are small data files stored on your device by your web browser when you visit a website. They are widely used to make websites work efficiently, as well as to provide reporting information."
+        },
+        {
+            "_type": "heading",
+            "level": 2,
+            "text": "3. How We Use Cookies"
+        },
+        {
+            "_type": "paragraph",
+            "text": "We use cookies for the following purposes:"
+        },
+        {
+            "_type": "list",
+            "style": "bullet",
+            "items": [
+                "Essential cookies: Required for the technical operation and security of our website.",
+                "Analytics cookies: To help us understand how visitors interact with our website and improve user experience."
+            ]
+        },
+        {
+            "_type": "heading",
+            "level": 2,
+            "text": "4. Managing Cookies"
+        },
+        {
+            "_type": "paragraph",
+            "text": "You can control and manage cookies through your browser settings. Please note that removing or blocking cookies may impact your experience and functionality of the website."
+        },
+        {
+            "_type": "heading",
+            "level": 2,
+            "text": "5. Changes to This Policy"
+        },
+        {
+            "_type": "paragraph",
+            "text": "We may update this Cookie Policy from time to time. Any changes will be posted directly on this page."
+        },
+        {
+            "_type": "heading",
+            "level": 2,
+            "text": "6. Contact"
+        },
+        {
+            "_type": "paragraph",
+            "text": "If you have any questions about our use of cookies, please contact us at: [Your contact email]"
+        },
+        {
+            "_type": "spacer",
+            "size": 10
+        },
+        {
+            "_type": "paragraph",
+            "text": "Note: This document is provided as a general template and does not constitute legal advice."
+        }
+    ]
+}

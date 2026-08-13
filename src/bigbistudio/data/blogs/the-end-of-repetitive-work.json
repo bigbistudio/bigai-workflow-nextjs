@@ -1,0 +1,42 @@
+{
+    "meta": {
+        "slug": "the-end-of-repetitive-work",
+        "featured": false,
+        "status": "published",
+        "publishedAt": "2026-03-24T00:00:00Z",
+        "author": "Anna Müller",
+        "title": "The end of repetitive work",
+        "subtitle": "Why automation is no longer optional for modern teams",
+        "bannerImage": "/blogs/the-end-of-repetitive-work.png"
+    },
+    "content": [
+        {
+            "_type": "paragraph",
+            "text": "Repetitive work doesn't feel like a problem at first."
+        },
+        {
+            "_type": "paragraph",
+            "text": "It starts small — copying data, updating spreadsheets, routing tasks between tools. Individually, each action takes seconds. But over time, these seconds compound into hours, then days, then entire roles built around coordination instead of creation."
+        },
+        {
+            "_type": "paragraph",
+            "text": "Most teams don't notice it happening."
+        },
+        {
+            "_type": "paragraph",
+            "text": "Until growth makes it impossible to ignore."
+        },
+        {
+            "_type": "paragraph",
+            "text": "As systems scale, manual workflows begin to break. What once felt manageable becomes chaotic. Work slows down. Errors increase. And the team spends more time maintaining processes than moving forward."
+        },
+        {
+            "_type": "paragraph",
+            "text": "Automation changes this dynamic completely."
+        },
+        {
+            "_type": "paragraph",
+            "text": "With tools like bigA.i, repetitive work disappears into the background. Workflows run continuously. Data moves without friction. Teams regain their focus — not on managing work, but on doing it."
+        }
+    ]
+}

@@ -1,0 +1,113 @@
+{
+    "meta": {
+        "slug": "irongate-solutions",
+        "featured": false,
+        "status": "published",
+        "publishedAt": "2026-05-22T08:11:00Z",
+        "title": "IronGate Solutions modernizes legacy systems with speed",
+        "bannerImage": "/case-studies/irongate-solutions-banner.png",
+        "cardIcon": "Plane"
+    },
+    "company": {
+        "name": "IronGate Solutions",
+        "logo": "/case-studies/irongate-solutions-logo.svg",
+        "website": "irongate.io",
+        "industry": "Enterprise Software",
+        "teamSize": "200+ employees",
+        "useCase": "System integration"
+    },
+    "testimonial": {
+        "author": "David Vogt",
+        "role": "CTO, IronGate Solutions",
+        "quote": "Unmatched precision and bank-grade security. We integrated our legacy systems in hours, not weeks. The API flexibility is simply world-class."
+    },
+    "content": [
+        {
+            "_type": "heading",
+            "level": 2,
+            "text": "Overview"
+        },
+        {
+            "_type": "paragraph",
+            "text": "IronGate Solutions operates in a highly regulated environment where security and reliability are critical. However, their legacy infrastructure made it difficult to integrate modern tools or adapt to evolving business needs."
+        },
+        {
+            "_type": "paragraph",
+            "text": "Traditional integration processes were slow and resource-intensive, limiting the company's ability to innovate and respond quickly."
+        },
+        {
+            "_type": "heading",
+            "level": 2,
+            "text": "The Challenge"
+        },
+        {
+            "_type": "paragraph",
+            "text": "Legacy systems created significant friction in connecting new technologies."
+        },
+        {
+            "_type": "image",
+            "src": "/case-studies/irongatesolutions-the-challenge.png",
+            "alt": "The challenge of IronGate Solutions"
+        },
+        {
+            "_type": "paragraph",
+            "text": "Integration projects often took weeks to complete and required extensive engineering effort. At the same time, strict security requirements limited flexibility and increased complexity."
+        },
+        {
+            "_type": "paragraph",
+            "text": "The team needed a solution that could bridge old and new systems without compromising performance or security."
+        },
+        {
+            "_type": "heading",
+            "level": 2,
+            "text": "The Approach"
+        },
+        {
+            "_type": "paragraph",
+            "text": "IronGate Solutions adopted bigA.i to streamline integration through flexible APIs and automation."
+        },
+        {
+            "_type": "paragraph",
+            "text": "Instead of building custom integrations from scratch, the team used bigA.i to connect systems quickly and securely. Workflows were designed to handle data exchange automatically while maintaining strict compliance standards."
+        },
+        {
+            "_type": "paragraph",
+            "text": "This significantly reduced the time and effort required to modernize their infrastructure."
+        },
+        {
+            "_type": "heading",
+            "level": 2,
+            "text": "The Impact"
+        },
+        {
+            "_type": "paragraph",
+            "text": "Integration timelines were reduced dramatically, allowing the company to move faster without sacrificing security."
+        },
+        {
+            "_type": "paragraph",
+            "text": "The team gained the flexibility to adopt new tools while maintaining the integrity of their existing systems."
+        },
+        {
+            "_type": "list",
+            "style": "bullet",
+            "items": [
+                "Integration completed in hours instead of weeks",
+                "Maintained enterprise-grade security standards",
+                "Increased system flexibility and scalability"
+            ]
+        },
+        {
+            "_type": "heading",
+            "level": 2,
+            "text": "Conclusion"
+        },
+        {
+            "_type": "paragraph",
+            "text": "IronGate Solutions transformed integration from a bottleneck into a competitive advantage."
+        },
+        {
+            "_type": "paragraph",
+            "text": "With bigA.i, they were able to modernize their infrastructure without compromising on security or reliability."
+        }
+    ]
+}

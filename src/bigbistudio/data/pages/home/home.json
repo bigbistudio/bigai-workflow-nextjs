@@ -1,0 +1,121 @@
+{
+    "sections": {
+        "heroMain": {
+            "title": "Orchestrate your entire \nbusiness with Agentic AI.",
+            "subtitle": "Unified AI Operating System.\nBuild and scale autonomous agents 24/7.",
+            "buttons": [
+                {
+                    "btnType": "primary",
+                    "btnTitle": "Start Building",
+                    "btnUrl": "/contact"
+                },
+                {
+                    "btnType": "ghost",
+                    "btnTitle": "How It Works",
+                    "btnUrl": "/features#process",
+                    "btnIcon": "ChevronRight"
+                }
+            ]
+        },
+        "clientLogos": {
+            "title": "Trusted by operations teams at fast-growing scaleups."
+        },
+        "featuresCarousel": {
+            "eyebrow": "Features",
+            "title": "Everything you need \nto run at lightspeed",
+            "subtitle": "A comprehensive suite of AI tools designed to eliminate manual overhead and unify your business logic in one secure environment.",
+            "buttons": [
+                {
+                    "btnType": "ghost",
+                    "btnTitle": "View Detail",
+                    "btnUrl": "/features",
+                    "btnIcon": "ArrowRight"
+                }
+            ]
+        },
+        "statistics": {
+            "title": "Statistics",
+            "numbers": [
+                {
+                    "value": "70%",
+                    "description": "reduction in manual \ndata entry."
+                },
+                {
+                    "value": "24/7",
+                    "description": "autonomous operation \nmonitoring."
+                },
+                {
+                    "value": "< 1s",
+                    "description": "response time for \nautomated triggers."
+                }
+            ]
+        },
+        "processGrid": {
+            "eyebrow": "Process",
+            "title": "From manual chaos to \nAI-driven clarity",
+            "subtitle": "We've simplified the path to automation. Our 4-step framework ensures your transition to an AI-first operation is seamless, secure, and data-backed."
+        },
+        "pricing": {
+            "eyebrow": "Pricing",
+            "title": "Scale as You Grow",
+            "buttons": [
+                {
+                    "btnType": "ghost",
+                    "btnTitle": "Pricing Q&A",
+                    "btnUrl": "/pricing#faqs",
+                    "btnIcon": "ArrowRight"
+                },
+                {
+                    "btnType": "ghost",
+                    "btnTitle": "Compare Plans",
+                    "btnUrl": "/pricing#compare-plans",
+                    "btnIcon": "ArrowRight"
+                }
+            ]
+        },
+        "caseStudies": {
+            "id": "case-studies",
+            "eyebrow": "Case Studies",
+            "title": "Workflow showcases",
+            "subtitle": "From simple automations to complex systems, see what teams are building with bigA.i.",
+            "caseStudySlugs": [
+                "futurelogix",
+                "vector-flow"
+            ],
+            "buttons": [
+                {
+                    "btnType": "ghost",
+                    "btnTitle": "See More",
+                    "btnUrl": "/case-studies",
+                    "btnIcon": "ArrowRight"
+                }
+            ]
+        },
+        "testimonials": {
+            "title": "Why high-growth scaleups choose bigA.i"
+        },
+        "faqGeneral": {
+            "eyebrow": "FAQs",
+            "title": "Questions \nand answers"
+        },
+        "blog": {
+            "id": "blog-section",
+            "eyebrow": "Blog",
+            "title": "Insights",
+            "subtitle": "Thoughts on automation, workflows, and how modern teams build and operate at scale.",
+            "blogSlugs": [
+                "building-systems-that-scale-with-you",
+                "speed-comes-from-systems-not-mindset",
+                "the-hidden-cost-of-manual-workflows"
+            ],
+            "buttons": [
+                {
+                    "btnType": "ghost",
+                    "btnTitle": "Read More",
+                    "btnUrl": "/blog",
+                    "btnIcon": "ArrowRight"
+                }
+            ]
+        }
+    }
+}

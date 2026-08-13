@@ -1,0 +1,111 @@
+{
+    "faqGeneral": [
+        {
+            "id": "implementation",
+            "title": "How long does implementation take?",
+            "answer": "Answer: Most teams are up and running within 24–48 hours. Our visual builder and pre-built templates enable fast deployment without needing a developer."
+        },
+        {
+            "id": "data",
+            "title": "Is my data used to train public AI models?",
+            "answer": "Answer: Absolutely not. We follow strict data sovereignty practices. Your data is encrypted, isolated, and never used to train public models."
+        },
+        {
+            "id": "integrate",
+            "title": "Can bigA.i integrate with legacy software?",
+            "answer": "Answer: Yes. Beyond our 500+ native integrations, we provide a robust API and Webhook system to connect with any proprietary or legacy system in your stack."
+        },
+        {
+            "id": "discounts",
+            "title": "Do you offer discounts for non-profits?",
+            "answer": "Answer: Yes. We support non-profit and mission-driven organizations with special pricing options. If you qualify, simply reach out to our team and we’ll be happy to discuss available discounts and plans."
+        }
+    ],
+    "faqPricing": [
+        {
+            "id": "general-questions",
+            "title": "General Questions"
+        },
+        {
+            "id": "is-there-a-free-trial-available",
+            "title": "Is there a free trial available?",
+            "answer": "Answer: Yes. You can start with our free plan (or a 14-day trial) to explore the core features before committing to a paid plan."
+        },
+        {
+            "id": "can-i-change-my-plan-later",
+            "title": "Can I change my plan later?",
+            "answer": "Answer: Absolutely. You can upgrade or downgrade your plan at any time based on your needs, with no restrictions or long-term commitments."
+        },
+        {
+            "id": "are-there-any-hidden-fees",
+            "title": "Are there any hidden fees?",
+            "answer": "Answer: No. All pricing and feature limits are clearly listed on this page. You’ll only pay for the plan you choose."
+        },
+        {
+            "id": "billing-payments",
+            "title": "Billing & Payments"
+        },
+        {
+            "id": "do-you-offer-monthly-and-yearly-billing",
+            "title": "Do you offer monthly and yearly billing?",
+            "answer": "Answer: Yes. You can choose monthly billing or save with annual billing at a discounted rate, depending on what works best for your team."
+        },
+        {
+            "id": "what-payment-methods-do-you-accept",
+            "title": "What payment methods do you accept?",
+            "answer": "Answer: We accept major credit cards and secure online payment methods. For Enterprise plans, custom invoicing is available."
+        },
+        {
+            "id": "do-you-offer-refunds",
+            "title": "Do you offer refunds?",
+            "answer": "Answer: We offer a refund policy within the first X days of purchase. Please contact our support team for assistance."
+        },
+        {
+            "id": "plans-features",
+            "title": "Plans & Features"
+        },
+        {
+            "id": "which-plan-is-right-for-me",
+            "title": "Which plan is right for me?",
+            "answer": "Answer: \n\nStarter – Best for individuals or small projects.\n\nPro – Ideal for growing teams and advanced workflows.\n\nEnterprise – Built for organizations needing scale, security, and dedicated support."
+        },
+        {
+            "id": "whats-the-difference-between-plans",
+            "title": "What’s the difference between plans?",
+            "answer": "Answer: Higher-tier plans include more usage limits, advanced features, priority support, and additional integrations."
+        },
+        {
+            "id": "what-happens-if-i-exceed-my-usage-limit",
+            "title": "What happens if I exceed my usage limit?",
+            "answer": "Answer: You’ll be notified in advance. You can either upgrade your plan or purchase additional usage if available."
+        },
+        {
+            "id": "support-onboarding",
+            "title": "Support & Onboarding"
+        },
+        {
+            "id": "what-kind-of-support-do-you-provide",
+            "title": "What kind of support do you provide?",
+            "answer": "Answer: All paid plans include email support. Pro and Enterprise plans include priority support, and Enterprise customers receive a dedicated account manager."
+        },
+        {
+            "id": "how-long-does-it-take-to-get-started",
+            "title": "How long does it take to get started?",
+            "answer": "Answer: You can get started immediately after signing up. Enterprise onboarding is handled by our team to ensure a smooth setup."
+        },
+        {
+            "id": "enterprise-custom-needs",
+            "title": "Enterprise & Custom Needs"
+        },
+        {
+            "id": "do-you-offer-custom-pricing",
+            "title": "Do you offer custom pricing?",
+            "answer": "Answer: Yes. Our Enterprise plan includes custom pricing tailored to your usage, security requirements, and team size. Contact our sales team for details."
+        },
+        {
+            "id": "do-you-offer-special-discounts",
+            "title": "Do you offer special discounts?",
+            "answer": "Answer: We offer special pricing for eligible organizations. Please reach out to our team to learn more about available discounts and eligibility."
+        }
+    ]
+}

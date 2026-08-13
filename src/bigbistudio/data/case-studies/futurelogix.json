@@ -1,0 +1,113 @@
+{
+    "meta": {
+        "slug": "futurelogix",
+        "featured": false,
+        "status": "published",
+        "publishedAt": "2026-05-29T07:11:00Z",
+        "title": "FutureLogix builds intelligent workflows beyond automation",
+        "bannerImage": "/case-studies/futurelogix-banner.png",
+        "cardIcon": "Bot"
+    },
+    "company": {
+        "name": "FutureLogix",
+        "logo": "/case-studies/futurelogix-logo.svg",
+        "website": "futurelogix.co.jp",
+        "industry": "AI & Data Platforms",
+        "teamSize": "90+ employees",
+        "useCase": "Intelligent workflows"
+    },
+    "testimonial": {
+        "author": "Aiko Tanaka",
+        "role": "Director, FutureLogix",
+        "quote": "This isn't just automation; it's true operational intelligence. bigA.i has completely redefined the standard for our industry's workflow engine."
+    },
+    "content": [
+        {
+            "_type": "heading",
+            "level": 2,
+            "text": "Overview"
+        },
+        {
+            "_type": "paragraph",
+            "text": "FutureLogix had already implemented automation across key parts of their operations, but found that traditional systems lacked flexibility and adaptability."
+        },
+        {
+            "_type": "paragraph",
+            "text": "As their business evolved, workflows became more complex and required a more intelligent approach to decision-making."
+        },
+        {
+            "_type": "heading",
+            "level": 2,
+            "text": "The Challenge"
+        },
+        {
+            "_type": "paragraph",
+            "text": "Rule-based automation systems proved too rigid for dynamic environments."
+        },
+        {
+            "_type": "paragraph",
+            "text": "Workflows could not adapt to changing conditions, and updates required manual adjustments. This limited the team's ability to scale operations efficiently and respond to new challenges."
+        },
+        {
+            "_type": "paragraph",
+            "text": "The need for more adaptive, intelligent systems became clear."
+        },
+        {
+            "_type": "heading",
+            "level": 2,
+            "text": "The Approach"
+        },
+        {
+            "_type": "paragraph",
+            "text": "FutureLogix implemented bigA.i to introduce AI-driven decision-making into their workflows."
+        },
+        {
+            "_type": "image",
+            "src": "/case-studies/futurelogix-the-approach.png",
+            "alt": "The approach of FutureLogix"
+        },
+        {
+            "_type": "paragraph",
+            "text": "Instead of relying on static rules, workflows were designed to respond dynamically based on real-time data. AI agents handled complex logic and continuously improved performance over time."
+        },
+        {
+            "_type": "paragraph",
+            "text": "This shift enabled the team to move beyond automation and toward true operational intelligence."
+        },
+        {
+            "_type": "heading",
+            "level": 2,
+            "text": "The Impact"
+        },
+        {
+            "_type": "paragraph",
+            "text": "Workflows became more flexible, adaptive, and efficient."
+        },
+        {
+            "_type": "paragraph",
+            "text": "The team was able to respond faster to changes and optimize processes without constant manual intervention."
+        },
+        {
+            "_type": "list",
+            "style": "bullet",
+            "items": [
+                "More adaptive and intelligent workflows",
+                "Improved decision-making speed",
+                "Reduced manual adjustments"
+            ]
+        },
+        {
+            "_type": "heading",
+            "level": 2,
+            "text": "Conclusion"
+        },
+        {
+            "_type": "paragraph",
+            "text": "FutureLogix redefined how their operations functioned by moving from static automation to intelligent systems."
+        },
+        {
+            "_type": "paragraph",
+            "text": "bigA.i enabled a new level of flexibility and performance across their workflows."
+        }
+    ]
+}

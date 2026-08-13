@@ -1,0 +1,61 @@
+{
+    "sections": {
+        "heroSimple": {
+            "id": "hero",
+            "title": "Features",
+            "subtitle": "bigA.i helps teams automate repetitive work, connect tools \nand build intelligent workflows in minutes — without writing code."
+        },
+        "featuresGrid": {
+            "id": "features",
+            "eyebrow": "Core Features",
+            "title": "Everything You Need \nto Automate Work",
+            "subtitle": "From workflow automation to AI-powered task handling, bigA.i provides the tools teams need to operate faster and smarter."
+        },
+        "benefits": {
+            "title": "Benefits",
+            "numbers": [
+                {
+                    "value": "10x",
+                    "description": "faster workflow creation."
+                },
+                {
+                    "value": "40%",
+                    "description": "less manual work."
+                },
+                {
+                    "value": "100+",
+                    "description": "integrations."
+                }
+            ]
+        },
+        "process": {
+            "id": "process",
+            "eyebrow": "Workflow Process",
+            "title": "From Setup to \nAutomation in Minutes",
+            "subtitle": "Connect your tools, design workflows visually and \nlet AI automate repetitive tasks across your systems."
+        },
+        "caseStudies": {
+            "id": "case-studies",
+            "eyebrow": "Case Studies",
+            "title": "Automation in action",
+            "subtitle": "Explore how teams use bigA.i to automate tasks and streamline operations.",
+            "caseStudySlugs": [
+                "futurelogix",
+                "vector-flow"
+            ],
+            "buttons": [
+                {
+                    "btnType": "ghost",
+                    "btnTitle": "See More",
+                    "btnUrl": "/case-studies",
+                    "btnIcon": "ArrowRight"
+                }
+            ]
+        },
+        "faqGeneral": {
+            "id": "faqs",
+            "eyebrow": "FAQs",
+            "title": "Questions \nand answers"
+        }
+    }
+}

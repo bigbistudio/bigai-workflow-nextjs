@@ -1,0 +1,26 @@
+{
+    "sections": {
+        "heroSimple": {
+            "title": "Blog",
+            "subtitle": "See how modern teams use bigA.i \nto automate workflows and move faster."
+        },
+        "caseStudies": {
+            "id": "case-studies",
+            "eyebrow": "Case Studies",
+            "title": "Automation in action",
+            "subtitle": "Explore how teams use bigA.i to automate tasks and streamline operations.",
+            "caseStudySlugs": [
+                "futurelogix",
+                "vector-flow"
+            ],
+            "buttons": [
+                {
+                    "btnType": "ghost",
+                    "btnTitle": "See More",
+                    "btnUrl": "/case-studies",
+                    "btnIcon": "ArrowRight"
+                }
+            ]
+        }
+    }
+}

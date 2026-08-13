@@ -1,0 +1,87 @@
+{
+    "metadata": {
+        "site": {
+            "name": "bigA.i",
+            "url": "https://bigai-nextjs.bigbistudio.com",
+            "locale": "en_US",
+            "author": "bigbi studio",
+            "creator": "bigbi studio"
+        },
+        "seo": {
+            "keywords": [
+                "Next.js",
+                "AI",
+                "Automation",
+                "Website Template"
+            ]
+        },
+        "images": {
+            "openGraph": "/og/default.png"
+        },
+        "social": {
+            "x": "@bigbistudio"
+        }
+    },
+    "footerCta": {
+        "title": "Ready to automate the future?",
+        "button": "Start with this Next.js template"
+    },
+    "labels": {
+        "popular": "Popular",
+        "monthly": " / month",
+        "homePage": "Home",
+        "caseStudies": "Case Studies",
+        "blog": "Blog",
+        "readMore": "Read More",
+        "previous": "Previous",
+        "next": "Next",
+        "sending": "Sending...",
+        "sendMessage": "Send message",
+        "effectiveDate": "Effective Date:",
+        "lastUpdated": "Last Updated:"
+    },
+    "urls": {
+        "caseStudiesPage": "/case-studies",
+        "blogPage": "/blog"
+    },
+    "page404": {
+        "heading": "404",
+        "title": "Page Not Found",
+        "subTitle": "Sorry, but we couldn't find that page.",
+        "returnHome": "Back Home"
+    },
+    "companyInfo": {
+        "website": "Website",
+        "industry": "Industry",
+        "teamSize": "Team Size",
+        "useCase": "Use Case"
+    },
+    "form": {
+        "name": {
+            "label": "Name",
+            "placeholder": "John Doe"
+        },
+        "email": {
+            "label": "Email",
+            "placeholder": "john@example.com"
+        },
+        "message": {
+            "label": "Message",
+            "placeholder": "Tell us about your automation goals..."
+        }
+    },
+    "message": {
+        "checkInput": "Please check your input and try again.",
+        "sentSuccessfully": "Your message has been sent successfully.",
+        "completeCaptcha": "Please complete the captcha.",
+        "captchaUnavailable": "Captcha is currently unavailable. Please try again later.",
+        "unableSend": "Unable to send your message. Please try again later.",
+        "captchaFailed": "Captcha verification failed.",
+        "nameIsRequired": "Name is required.",
+        "nameMustLessThan": "Name must be less than 100 characters.",
+        "enterValidEmail": "Please enter a valid email address.",
+        "emailMustLessThan": "Email must be less than 255 characters.",
+        "messageMustAtLeast": "Message must be at least 10 characters.",
+        "messageMustLessThan": "Message must be less than 2000 characters."
+    }
+}

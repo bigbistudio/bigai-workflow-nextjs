@@ -1,0 +1,328 @@
+{
+  "plans": [
+    {
+      "id": "starter",
+      "name": "Starter",
+      "description": "For individuals",
+      "button": {
+        "label": "Get started",
+        "href": "/"
+      }
+    },
+    {
+      "id": "pro",
+      "name": "Pro",
+      "description": "For growing teams",
+      "popular": true,
+      "highlightedIcon": true,
+      "button": {
+        "label": "Get started",
+        "href": "/"
+      }
+    },
+    {
+      "id": "enterprise",
+      "name": "Enterprise",
+      "description": "For large organizations",
+      "highlightedIcon": true,
+      "button": {
+        "label": "Contact us",
+        "href": "/contact"
+      }
+    }
+  ],
+  "categories": [
+    {
+      "id": "core-capabilities",
+      "title": "Core capabilities",
+      "features": [
+        {
+          "id": "workflows",
+          "label": "Workflows",
+          "planValues": {
+            "starter": {
+              "status": "included",
+              "text": "Up to 10"
+            },
+            "pro": {
+              "status": "included",
+              "text": "Unlimited"
+            },
+            "enterprise": {
+              "status": "included",
+              "text": "Unlimited"
+            }
+          }
+        },
+        {
+          "id": "automation-runs",
+          "label": "Automation runs / month",
+          "planValues": {
+            "starter": {
+              "status": "included",
+              "text": "1,000"
+            },
+            "pro": {
+              "status": "included",
+              "text": "50,000"
+            },
+            "enterprise": {
+              "status": "included",
+              "text": "Custom"
+            }
+          }
+        },
+        {
+          "id": "execution-speed",
+          "label": "Execution speed",
+          "planValues": {
+            "starter": {
+              "status": "included",
+              "text": "Standard queue"
+            },
+            "pro": {
+              "status": "included",
+              "text": "Priority queue"
+            },
+            "enterprise": {
+              "status": "included",
+              "text": "Dedicated infra"
+            }
+          }
+        },
+        {
+          "id": "integrations",
+          "label": "Integrations",
+          "planValues": {
+            "starter": {
+              "status": "included",
+              "text": "20+ apps"
+            },
+            "pro": {
+              "status": "included",
+              "text": "200+ apps"
+            },
+            "enterprise": {
+              "status": "included",
+              "text": "Custom"
+            }
+          }
+        },
+        {
+          "id": "logic-branching",
+          "label": "Logic & branching",
+          "planValues": {
+            "starter": {
+              "status": "included",
+              "text": "Basic"
+            },
+            "pro": {
+              "status": "included",
+              "text": "Advanced"
+            },
+            "enterprise": {
+              "status": "included",
+              "text": "Advanced + rules"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "collaboration-management",
+      "title": "Collaboration & management",
+      "features": [
+        {
+          "id": "team-members",
+          "label": "Team members",
+          "planValues": {
+            "starter": {
+              "status": "included",
+              "text": "1 user"
+            },
+            "pro": {
+              "status": "included",
+              "text": "Up to 10"
+            },
+            "enterprise": {
+              "status": "included",
+              "text": "Unlimited"
+            }
+          }
+        },
+        {
+          "id": "shared-workspaces",
+          "label": "Shared workspaces",
+          "planValues": {
+            "starter": {
+              "status": "excluded",
+              "text": "No"
+            },
+            "pro": {
+              "status": "included",
+              "text": "Yes"
+            },
+            "enterprise": {
+              "status": "included",
+              "text": "Yes"
+            }
+          }
+        },
+        {
+          "id": "role-permissions",
+          "label": "Role permissions",
+          "planValues": {
+            "starter": {
+              "status": "included",
+              "text": "Basic"
+            },
+            "pro": {
+              "status": "included",
+              "text": "Advanced"
+            },
+            "enterprise": {
+              "status": "included",
+              "text": "Custom roles"
+            }
+          }
+        },
+        {
+          "id": "activity-logs",
+          "label": "Activity logs",
+          "planValues": {
+            "starter": {
+              "status": "included",
+              "text": "7 days"
+            },
+            "pro": {
+              "status": "included",
+              "text": "90 days"
+            },
+            "enterprise": {
+              "status": "included",
+              "text": "Unlimited"
+            }
+          }
+        },
+        {
+          "id": "version-history",
+          "label": "Version history",
+          "planValues": {
+            "starter": {
+              "status": "excluded",
+              "text": "No"
+            },
+            "pro": {
+              "status": "included",
+              "text": "Yes"
+            },
+            "enterprise": {
+              "status": "included",
+              "text": "Advanced"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "insights-support",
+      "title": "Insights & support",
+      "features": [
+        {
+          "id": "analytics-dashboard",
+          "label": "Analytics dashboard",
+          "planValues": {
+            "starter": {
+              "status": "included",
+              "text": "Basic"
+            },
+            "pro": {
+              "status": "included",
+              "text": "Advanced"
+            },
+            "enterprise": {
+              "status": "included",
+              "text": "Custom"
+            }
+          }
+        },
+        {
+          "id": "error-monitoring",
+          "label": "Error monitoring",
+          "planValues": {
+            "starter": {
+              "status": "included",
+              "text": "Basic logs"
+            },
+            "pro": {
+              "status": "included",
+              "text": "Real-time alerts"
+            },
+            "enterprise": {
+              "status": "included",
+              "text": "Custom"
+            }
+          }
+        },
+        {
+          "id": "report-export",
+          "label": "Report export",
+          "planValues": {
+            "starter": {
+              "status": "excluded",
+              "text": "No"
+            },
+            "pro": {
+              "status": "included",
+              "text": "CSV"
+            },
+            "enterprise": {
+              "status": "included",
+              "text": "API + Reports"
+            }
+          }
+        },
+        {
+          "id": "uptime-guarantee",
+          "label": "Uptime guarantee",
+          "planValues": {
+            "starter": {
+              "status": "included",
+              "text": "99%"
+            },
+            "pro": {
+              "status": "included",
+              "text": "99.9%"
+            },
+            "enterprise": {
+              "status": "included",
+              "text": "Custom SLA"
+            }
+          }
+        },
+        {
+          "id": "support",
+          "label": "Support",
+          "planValues": {
+            "starter": {
+              "status": "included",
+              "text": "Community"
+            },
+            "pro": {
+              "status": "included",
+              "text": "Priority email"
+            },
+            "enterprise": {
+              "status": "included",
+              "text": "Dedicated manager"
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "labels": {
+    "header": "Features",
+    "footer": "Upgrade / Cancel anytime"
+  }
+}

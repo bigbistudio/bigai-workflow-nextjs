@@ -1,0 +1,50 @@
+{
+    "meta": {
+        "slug": "the-hidden-cost-of-manual-workflows",
+        "featured": false,
+        "status": "published",
+        "publishedAt": "2026-03-24T00:00:00Z",
+        "author": "Tobias Klein",
+        "title": "The hidden cost of manual workflows",
+        "subtitle": "Why inefficiency compounds faster than you think",
+        "bannerImage": "/blogs/hidden-cost-of-manual-workflows.png"
+    },
+    "content": [
+        {
+            "_type": "paragraph",
+            "text": "Manual workflows rarely fail all at once."
+        },
+        {
+            "_type": "paragraph",
+            "text": "They degrade slowly."
+        },
+        {
+            "_type": "paragraph",
+            "text": "A delay here. A missed update there. A task that slips through the cracks. Over time, these small inefficiencies accumulate into something much larger — a system that no longer scales."
+        },
+        {
+            "_type": "paragraph",
+            "text": "The cost isn't just time."
+        },
+        {
+            "_type": "paragraph",
+            "text": "It's lost opportunities, slower decisions, and teams that are constantly catching up instead of moving forward."
+        },
+        {
+            "_type": "paragraph",
+            "text": "Most organizations try to fix this by adding more people."
+        },
+        {
+            "_type": "paragraph",
+            "text": "But adding people doesn't fix broken systems."
+        },
+        {
+            "_type": "paragraph",
+            "text": "Automation does."
+        },
+        {
+            "_type": "paragraph",
+            "text": "By replacing manual steps with intelligent workflows, teams can eliminate inefficiencies at their source — not just manage them."
+        }
+    ]
+}

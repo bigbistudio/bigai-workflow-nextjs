@@ -1,0 +1,26 @@
+{
+    "sections": {
+        "heroSimple": {
+            "title": "Case Studies",
+            "subtitle": "See how modern teams use bigA.i \nto automate workflows and move faster."
+        },
+        "benefits": {
+            "bigText": true,
+            "title": "Teams automate tasks and streamline operations with bigA.i",
+            "numbers": [
+                {
+                    "value": "3x",
+                    "description": "faster workflows"
+                },
+                {
+                    "value": "-50%",
+                    "description": "manual work"
+                },
+                {
+                    "value": "+40%",
+                    "description": "efficiency"
+                }
+            ]
+        }
+    }
+}

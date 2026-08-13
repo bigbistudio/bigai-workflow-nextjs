@@ -1,0 +1,102 @@
+{
+  "header": {
+    "links": [
+      {
+        "label": "Features",
+        "href": "/features"
+      },
+      {
+        "label": "Showcases",
+        "href": "/case-studies"
+      },
+      {
+        "label": "Pricing",
+        "href": "/pricing"
+      },
+      {
+        "label": "About",
+        "href": "/about"
+      },
+      {
+        "label": "Blog",
+        "href": "/blog"
+      },
+      {
+        "label": "Contact",
+        "href": "/contact"
+      }
+    ],
+    "cta": {
+      "label": "Book Demo",
+      "href": "/contact"
+    }
+  },
+  "footer": {
+    "groups": [
+      {
+        "title": "Quick Links",
+        "columns": [
+          [
+            {
+              "label": "Features",
+              "href": "/features"
+            },
+            {
+              "label": "Process",
+              "href": "/features#process"
+            },
+            {
+              "label": "Pricing",
+              "href": "/pricing"
+            },
+            {
+              "label": "Compare Plans",
+              "href": "/pricing#compare-plans"
+            }
+          ],
+          [
+            {
+              "label": "Showcases",
+              "href": "/case-studies"
+            },
+            {
+              "label": "About",
+              "href": "/about"
+            },
+            {
+              "label": "Blog",
+              "href": "/blog"
+            },
+            {
+              "label": "Contact",
+              "href": "/contact"
+            }
+          ]
+        ]
+      },
+      {
+        "title": "Pages",
+        "columns": [
+          [
+            {
+              "label": "Coming Soon",
+              "href": "/coming-soon"
+            },
+            {
+              "label": "Terms of Service",
+              "href": "/terms-of-service"
+            },
+            {
+              "label": "Privacy Policy",
+              "href": "/privacy-policy"
+            },
+            {
+              "label": "Cookie Policy",
+              "href": "/cookie-policy"
+            }
+          ]
+        ]
+      }
+    ]
+  }
+}

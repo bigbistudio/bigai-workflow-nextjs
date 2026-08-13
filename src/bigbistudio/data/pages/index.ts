@@ -1,0 +1,8 @@
+export { aboutPageData } from "./about"
+export { blogListPageData } from "./blog-list"
+export { caseStudiesPageData } from "./case-studies"
+export { contactPageData } from "./contact"
+export { comingSoonPageData } from "./coming-soon"
+export { featuresPageData } from "./features"
+export { homePageData } from "./home"
+export { pricingPageData } from "./pricing"

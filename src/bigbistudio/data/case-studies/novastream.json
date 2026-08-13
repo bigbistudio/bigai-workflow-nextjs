@@ -1,0 +1,120 @@
+{
+    "meta": {
+        "slug": "novastream",
+        "featured": true,
+        "status": "published",
+        "publishedAt": "2026-07-22T08:11:00Z",
+        "title": "NovaStream automates work and boosts productivity",
+        "bannerImage": "/case-studies/novastream-banner.png",
+        "cardIcon": "Wind"
+    },
+    "company": {
+        "name": "NovaStream",
+        "logo": "/case-studies/novastream-logo.svg",
+        "website": "novastream.es",
+        "industry": "Media Technology",
+        "teamSize": "70+ employees",
+        "useCase": "Workflow automation"
+    },
+    "testimonial": {
+        "author": "Elena Rodriguez",
+        "role": "Product Manager, NovaStream",
+        "quote": "Setup took minutes, but the impact is permanent. bigAI has finally liberated my team from the chaos of manual data entry and repetitive tasks."
+    },
+    "content": [
+        {
+            "_type": "heading",
+            "level": 2,
+            "text": "Overview"
+        },
+        {
+            "_type": "paragraph",
+            "text": "NovaStream's product team was spending a significant amount of time on repetitive tasks such as data entry and system updates."
+        },
+        {
+            "_type": "paragraph",
+            "text": "These manual processes reduced productivity and created inconsistencies across workflows."
+        },
+        {
+            "_type": "heading",
+            "level": 2,
+            "text": "The Challenge"
+        },
+        {
+            "_type": "paragraph",
+            "text": "Manual data handling created inefficiencies across the organization."
+        },
+        {
+            "_type": "paragraph",
+            "text": "Tasks were time-consuming, prone to error, and difficult to scale. As the workload increased, these issues became more pronounced, limiting the team's ability to focus on strategic initiatives."
+        },
+        {
+            "_type": "heading",
+            "level": 2,
+            "text": "The Approach"
+        },
+        {
+            "_type": "paragraph",
+            "text": "NovaStream implemented bigA.i to automate data workflows and repetitive tasks."
+        },
+        {
+            "_type": "image",
+            "src": "/case-studies/novastream-the-approach.png",
+            "alt": "The approach of NovaStream"
+        },
+        {
+            "_type": "paragraph",
+            "text": "Processes were redesigned to run automatically, reducing the need for manual input. Data moved seamlessly between systems, and workflows became more consistent and reliable."
+        },
+        {
+            "_type": "paragraph",
+            "text": "This allowed the team to focus on higher-value work."
+        },
+        {
+            "_type": "heading",
+            "level": 2,
+            "text": "The Impact"
+        },
+        {
+            "_type": "paragraph",
+            "text": "The shift to automation had an immediate impact on productivity."
+        },
+        {
+            "_type": "paragraph",
+            "text": "Manual work was significantly reduced, and workflows became faster and more efficient."
+        },
+        {
+            "_type": "card",
+            "items": [
+                {
+                    "aboveText": "-60%",
+                    "belowText": "manual data entry"
+                },
+                {
+                    "aboveText": "~10m",
+                    "belowText": "setup time"
+                }
+            ]
+        },
+        {
+            "_type": "list",
+            "style": "bullet",
+            "items": [
+                "Improved team productivity"
+            ]
+        },
+        {
+            "_type": "heading",
+            "level": 2,
+            "text": "Conclusion"
+        },
+        {
+            "_type": "paragraph",
+            "text": "NovaStream transformed its operations by eliminating manual inefficiencies."
+        },
+        {
+            "_type": "paragraph",
+            "text": "With bigA.i, the team gained clarity, speed, and the ability to focus on what truly matters."
+        }
+    ]
+}

@@ -1,0 +1,311 @@
+.bigbistyle,
+.bigbistyle.dark {
+  /* --------------------------------------------------------------------------
+   * shadcn/ui compatibility tokens
+   * Used by shadcn/ui components. Keep these names for compatibility.
+   * -------------------------------------------------------------------------- */
+
+  --background: var(--color-surface-primary);
+  --foreground: var(--color-ink-primary);
+
+  --primary: var(--color-action-primary-surface);
+  --primary-foreground: var(--color-action-primary-ink);
+
+  --secondary: var(--color-action-secondary-surface);
+  --secondary-foreground: var(--color-action-secondary-ink);
+
+  --muted: var(--color-surface-quaternary);
+  --muted-foreground: var(--color-ink-secondary);
+
+  --popover: var(--color-surface-secondary);
+  --popover-foreground: var(--color-ink-primary);
+
+  --card: var(--color-surface-tertiary);
+  --card-foreground: var(--color-ink-primary);
+
+  --accent: var(--color-brand-surface);
+  --accent-foreground: var(--color-brand-ink);
+
+  --border: var(--color-line-primary);
+
+  --input: var(--border);
+  --ring: var(--primary);
+}
+
+@theme inline {
+  /* --------------------------------------------------------------------------
+   * bigbi design system tokens
+   * Preferred for custom components.
+   * -------------------------------------------------------------------------- */
+
+  --radius: 0.5rem; /* 8px (default) */
+
+  --radius-xs: 0.125rem; /* 2px */
+  --radius-sm: 0.25rem; /* 4px */
+  --radius-md: 0.375rem; /* 6px */
+  --radius-lg: 0.5rem; /* 8px */
+  --radius-xl: 0.75rem; /* 12px */
+  --radius-2xl: 1rem; /* 16px */
+  --radius-3xl: 1.5rem; /* 24px */
+  --radius-4xl: 2rem; /* 32px */
+
+  /* Spacing token */
+  --spacing-1: 0.25rem; /* 4px */
+  --spacing-2: 0.5rem; /* 8px */
+  --spacing-3: 0.75rem; /* 12px */
+  --spacing-4: 1rem; /* 16px */
+  --spacing-5: 1.25rem; /* 20px */
+  --spacing-6: 1.5rem; /* 24px */
+  --spacing-8: 2rem; /* 32px */
+  --spacing-10: 2.5rem; /* 40px */
+  --spacing-12: 3rem; /* 48px */
+  --spacing-16: 4rem; /* 64px */
+  --spacing-20: 5rem; /* 80px */
+  --spacing-24: 6rem; /* 96px */
+
+  /* Text color hierarchy */
+  --color-ink-primary: oklch(0.978 0.001 240.1); /* #F7F8F8 */
+  --color-ink-secondary: oklch(0.857 0.013 245.4); /* #D0D6E0 */
+  --color-ink-tertiary: oklch(0.734 0.009 245.3); /* #A8ADB8 */
+  --color-ink-quaternary: oklch(0.578 0.008 245.2); /* #7A7F87 */
+
+  /* Background color hierarchy */
+  --color-surface-primary: oklch(0.138 0.003 240.1); /* #08090A */
+  --color-surface-secondary: oklch(0.17 0 0); /* #0F1011 */
+  --color-surface-tertiary: oklch(0.195 0.003 248); /* #141516 */
+  --color-surface-quaternary: oklch(0.228 0.006 285.9); /* #1C1C1F */
+
+  /* Border color hierarchy */
+  --color-line-primary: oklch(0.219 0.009 250.2); /* #23252A */
+  --color-line-secondary: oklch(0.283 0.005 264.5); /* #34343A */
+  --color-line-tertiary: oklch(0.316 0.005 264.6); /* #3E3E44 */
+  --color-line-translucent: oklch(1 0 0 / 0.05); /* #FFFFFF05 */
+
+  /* Actions: Button, Link, Tab, Pagination controls, etc */
+  --color-action-primary-surface: oklch(0.978 0.001 240.1); /* #F7F8F8 */
+  --color-action-primary-ink: oklch(0.138 0.003 240.1); /* #08090A */
+
+  --color-action-secondary-surface: oklch(0.27 0 0); /* #28282C */
+  --color-action-secondary-ink: oklch(0.978 0.001 240.1); /* #F7F8F8 */
+
+  /* Brand */
+  --color-brand-surface: oklch(0.626 0.183 252.6); /* #3B82F6 */
+  --color-brand-ink: oklch(0.978 0.001 240.1); /* #F7F8F8 */
+
+  /* --------------------------------------------------------------------------
+   * Breakpoints
+   * Values are defined in rem (1rem = 16px)
+   * -------------------------------------------------------------------------- */
+
+  --breakpoint-mobile: 22.5rem; /* 360px */
+  --breakpoint-tablet: 50.625rem; /* 810px */
+  --breakpoint-desktop: 75rem; /* 1200px */
+
+  /* --------------------------------------------------------------------------
+   * Container
+   * Values are defined in rem (1rem = 16px)
+   * -------------------------------------------------------------------------- */
+
+  --container-padding-mobile: 1rem; /* 16px */
+  --container-padding-tablet: 1.5rem; /* 24px */
+
+  --container-max-width: 75rem; /* 1200px */
+}
+
+@theme {
+  /* --------------------------------------------------------------------------
+   * Typography
+   * -------------------------------------------------------------------------- */
+
+  /* Headings */
+
+  /* 40px */
+  --text-h1: 2.5rem; /* 40px */
+  --text-h1--line-height: 2.75rem; /* 44px */
+  --text-h1--letter-spacing: -0.022em;
+  --text-h1--font-weight: 500;
+
+  /* 32px */
+  --text-h2: 2rem; /* 32px */
+  --text-h2--line-height: 2.5rem; /* 40px */
+  --text-h2--letter-spacing: -0.0455em;
+  --text-h2--font-weight: 500;
+
+  /* 20px */
+  --text-h3: 1.25rem; /* 20px */
+  --text-h3--line-height: 1.75rem; /* 28px */
+  --text-h3--letter-spacing: -0.02em;
+  --text-h3--font-weight: 500;
+
+  /* 18px */
+  --text-h4: 1.125rem; /* 18px */
+  --text-h4--line-height: 1.5rem; /* 24px */
+  --text-h4--letter-spacing: -0.0056em;
+  --text-h4--font-weight: 600;
+
+  /* 13px */
+  --text-small: 0.8125rem; /* 13px */
+  --text-small--line-height: 1rem; /* 16px */
+  --text-small--letter-spacing: 0;
+
+  --text-quote: 0.8125rem; /* 13px */
+  --text-quote--line-height: 1.125rem; /* 18px */
+  --text-quote--letter-spacing: 0;
+
+  /* 14px */
+  --text-body: 0.875rem; /* 14px */
+  --text-body--line-height: 1.25rem; /* 20px */
+  --text-body--letter-spacing: 0;
+
+  --text-body-medium: 0.875rem; /* 14px */
+  --text-body-medium--line-height: 1.25rem; /* 20px */
+  --text-body-medium--letter-spacing: 0;
+  --text-body-medium--font-weight: 500;
+
+  /* 16px */
+  --text-body-large: 1rem; /* 16px */
+  --text-body-large--line-height: 1.5rem; /* 24px */
+  --text-body-large--letter-spacing: 0;
+
+  /* 18px */
+  --text-large: 1.125rem; /* 18px */
+  --text-large--line-height: 1.75rem; /* 28px */
+  --text-large--letter-spacing: 0;
+
+  /* 20px */
+  --text-lead: 1.25rem; /* 20px */
+  --text-lead--line-height: 1.75rem; /* 28px */
+  --text-lead--letter-spacing: 0;
+
+  /* 24px */
+  --text-extra-large: 1.5rem; /* 24px */
+  --text-extra-large--line-height: 2rem; /* 32px */
+  --text-extra-large--letter-spacing: 0;
+
+  /* --------------------------------------------------------------------------
+   * Article Typography
+   * -------------------------------------------------------------------------- */
+
+  --text-body-article: 1rem; /* 16px */
+  --text-body-article--line-height: 1.5rem; /* 24px */
+  --text-body-article--letter-spacing: 0;
+
+  --text-h2-article: 1.5rem; /* 24px */
+  --text-h2-article--line-height: 1.75rem; /* 28px */
+  --text-h2-article--letter-spacing: -0.056875em;
+
+  --text-h1-article: 2rem; /* 32px */
+  --text-h1-article--line-height: 2.25rem; /* 36px */
+  --text-h1-article--letter-spacing: -0.0275em;
+}
+
+@layer base {
+  h1 {
+    font-size: var(--text-h1);
+    line-height: var(--text-h1--line-height);
+    letter-spacing: var(--text-h1--letter-spacing);
+    font-weight: var(--text-h1--font-weight);
+  }
+
+  h2 {
+    font-size: var(--text-h2);
+    line-height: var(--text-h2--line-height);
+    letter-spacing: var(--text-h2--letter-spacing);
+    font-weight: var(--text-h2--font-weight);
+  }
+
+  h3 {
+    font-size: var(--text-h3);
+    line-height: var(--text-h3--line-height);
+    letter-spacing: var(--text-h3--letter-spacing);
+    font-weight: var(--text-h3--font-weight);
+  }
+
+  h4 {
+    font-size: var(--text-h4);
+    line-height: var(--text-h4--line-height);
+    letter-spacing: var(--text-h4--letter-spacing);
+    font-weight: var(--text-h4--font-weight);
+  }
+
+  /* Tablet */
+  @media (width >= theme(--breakpoint-tablet)) {
+    :root {
+      --text-h1: 3rem;
+      --text-h1--line-height: 3.5rem;
+      --text-h1--letter-spacing: -0.029em;
+
+      --text-h2: 2.5rem;
+      --text-h2--line-height: 3rem;
+      --text-h2--letter-spacing: -0.0364em;
+
+      --text-h1-article: 3rem;
+      --text-h1-article--line-height: 3rem;
+      --text-h1-article--letter-spacing: -0.029em;
+    }
+  }
+
+  /* Desktop */
+  @media (width >= theme(--breakpoint-desktop)) {
+    :root {
+      --text-h1: 3.5rem;
+      --text-h1--line-height: 3.75rem;
+      --text-h1--letter-spacing: -0.022em;
+    }
+  }
+}
+
+@utility container {
+  margin-inline: auto;
+  padding-inline: var(--container-padding-mobile);
+
+  @media (width >= theme(--breakpoint-tablet)) {
+    padding-inline: var(--container-padding-tablet);
+  }
+
+  @media (width >= theme(--breakpoint-desktop)) {
+    max-width: var(--container-max-width);
+  }
+}
+
+/* Carousel Fading */
+
+.carousel-fade {
+  position: relative;
+}
+
+.carousel-fade::before,
+.carousel-fade::after {
+  content: "";
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  width: 96px;
+  pointer-events: none;
+  z-index: 10;
+  opacity: 0;
+  transition: opacity 200ms ease;
+}
+
+.carousel-fade::before {
+  left: 0;
+  background: linear-gradient(to right, var(--background), transparent);
+}
+
+.carousel-fade::after {
+  right: 0;
+  background: linear-gradient(to left, var(--background), transparent);
+}
+
+.carousel-fade-left::before {
+  opacity: 1;
+}
+
+.carousel-fade-right::after {
+  opacity: 1;
+}
+
+.carousel-fade-both::before,
+.carousel-fade-both::after {
+  opacity: 1;
+}

@@ -1,0 +1,60 @@
+{
+    "team": [
+        {
+            "id": "lukas-schneider1",
+            "name": "Lukas Schneider",
+            "role": "Co-founder & CEO",
+            "avatar": "/team/lukas-schneider.png",
+            "link": "https://linkedin.com"
+        },
+        {
+            "id": "daniel-weber",
+            "name": "Daniel Weber",
+            "role": "Co-founder & CTO",
+            "avatar": "/team/daniel-weber.png",
+            "link": "https://linkedin.com"
+        },
+        {
+            "id": "sebastian-fischer",
+            "name": "Sebastian Fischer",
+            "role": "Head of Engineering",
+            "avatar": "/team/sebastian-fischer.png",
+            "link": "https://linkedin.com"
+        },
+        {
+            "id": "anna-muller",
+            "name": "Anna Müller",
+            "role": "Head of Product",
+            "avatar": "/team/anna-muller.png",
+            "link": "https://linkedin.com"
+        },
+        {
+            "id": "julia-becker",
+            "name": "Julia Becker",
+            "role": "Head of Design",
+            "avatar": "/team/julia-becker.png",
+            "link": "https://linkedin.com"
+        },
+        {
+            "id": "laura-hoffmann",
+            "name": "Laura Hoffmann",
+            "role": "Head of Growth",
+            "avatar": "/team/laura-hoffmann.png",
+            "link": "https://linkedin.com"
+        },
+        {
+            "id": "tobias-klein",
+            "name": "Tobias Klein",
+            "role": "Head of AI",
+            "avatar": "/team/tobias-klein.png",
+            "link": "https://linkedin.com"
+        },
+        {
+            "id": "maximilian-wagner",
+            "name": "Maximilian Wagner",
+            "role": "Customer Success Lead",
+            "avatar": "/team/maximilian-wagner.png",
+            "link": "https://linkedin.com"
+        }
+    ]
+}

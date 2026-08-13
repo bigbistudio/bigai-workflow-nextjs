@@ -1,0 +1,61 @@
+{
+  "name": "bigA.i",
+  "logo": {
+    "src": "/logo.svg",
+    "alt": "bigA.i Logo"
+  },
+  "slogan": "Orchestrating the future of operations with agentic AI.",
+  "copyright": "© 2026 bigA.i GmbH.",
+  "contact": [
+    {
+      "id": "email",
+      "icon": "Mail",
+      "label": "sales@big.ai",
+      "href": "mailto:sales@big.ai"
+    },
+    {
+      "id": "phone",
+      "icon": "Phone",
+      "label": "+49 89 9876 5432",
+      "href": "tel:+498998765432"
+    },
+    {
+      "id": "address",
+      "icon": "MapPin",
+      "label": "Maximilianstraße 12, 80539 München, Germany",
+      "href": "https://maps.app.goo.gl/KbTi4ceQqzTAfhYL7"
+    }
+  ],
+  "socials": [
+    {
+      "id": "linkedin",
+      "label": "LinkedIn",
+      "href": "https://linkedin.com"
+    },
+    {
+      "id": "x",
+      "label": "X",
+      "href": "https://x.com"
+    },
+    {
+      "id": "instagram",
+      "label": "Instagram",
+      "href": "https://instagram.com"
+    },
+    {
+      "id": "facebook",
+      "label": "Facebook",
+      "href": "https://facebook.com"
+    },
+    {
+      "id": "youtube",
+      "label": "Youtube",
+      "href": "https://youtube.com"
+    },
+    {
+      "id": "discord",
+      "label": "Discord",
+      "href": "https://discord.com"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+    "sections": {
+        "heroSimple": {
+            "title": "Pricing",
+            "subtitle": "Plans designed to scale with your automation needs \n— from solo builders to enterprise operations."
+        },
+        "pricing": {
+            "id": "pricing",
+            "buttons": [
+                {
+                    "btnType": "ghost",
+                    "btnTitle": "Pricing Q&A",
+                    "btnUrl": "/pricing#faqs",
+                    "btnIcon": "ArrowDown"
+                },
+                {
+                    "btnType": "ghost",
+                    "btnTitle": "Compare Plans",
+                    "btnUrl": "/pricing#compare-plans",
+                    "btnIcon": "ArrowDown"
+                }
+            ]
+        },
+        "comparePlans": {
+            "id": "compare-plans",
+            "title": "Compare Plans",
+            "buttons": [
+                {
+                    "btnType": "ghost",
+                    "btnTitle": "Pricing Table",
+                    "btnUrl": "/pricing#pricing",
+                    "btnIcon": "ArrowUp"
+                },
+                {
+                    "btnType": "ghost",
+                    "btnTitle": "Pricing Q&A",
+                    "btnUrl": "/pricing#faqs",
+                    "btnIcon": "ArrowDown"
+                }
+            ]
+        },
+        "clientLogos": {
+            "title": "Trusted by operations teams at fast-growing scaleups."
+        },
+        "testimonials": {
+            "title": "Why high-growth scaleups choose bigA.i"
+        },
+        "faqPricing": {
+            "id": "faqs",
+            "eyebrow": "FAQs",
+            "title": "Pricing Q&A",
+            "isSticky": true
+        }
+    }
+}

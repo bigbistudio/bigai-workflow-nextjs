@@ -1,0 +1,50 @@
+{
+    "meta": {
+        "slug": "building-systems-that-scale-with-you",
+        "featured": false,
+        "status": "published",
+        "publishedAt": "2026-03-24T07:11:00Z",
+        "author": "Laura Hoffmann",
+        "title": "Building systems that scale with you",
+        "subtitle": "How teams prepare for growth before it happens",
+        "bannerImage": "/blogs/building-systems-that-scale.png"
+    },
+    "content": [
+        {
+            "_type": "paragraph",
+            "text": "Growth doesn't break systems."
+        },
+        {
+            "_type": "paragraph",
+            "text": "It reveals their limits."
+        },
+        {
+            "_type": "paragraph",
+            "text": "What works for a small team often fails at scale. Processes that once felt efficient become bottlenecks. Coordination becomes harder. Execution slows down."
+        },
+        {
+            "_type": "paragraph",
+            "text": "The mistake many teams make is waiting too long to fix it."
+        },
+        {
+            "_type": "paragraph",
+            "text": "By the time problems appear, the system is already under pressure."
+        },
+        {
+            "_type": "paragraph",
+            "text": "The best teams think ahead."
+        },
+        {
+            "_type": "paragraph",
+            "text": "They build systems that scale from the beginning — workflows that can handle increasing complexity without increasing effort."
+        },
+        {
+            "_type": "paragraph",
+            "text": "Automation makes this possible."
+        },
+        {
+            "_type": "paragraph",
+            "text": "With bigA.i, teams don't just react to growth. They're ready for it."
+        }
+    ]
+}

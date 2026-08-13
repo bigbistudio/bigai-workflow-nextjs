@@ -1,0 +1,145 @@
+{
+    "slug": "privacy-policy",
+    "title": "Privacy Policy",
+    "description": "This Privacy Policy explains how we collect, use, and protect your information when you use our website and services.",
+    "effectiveDate": "2026-08-06T15:15:00Z",
+    "lastUpdated": "2026-09-22T15:15:00Z",
+    "content": [
+        {
+            "_type": "heading",
+            "level": 2,
+            "text": "1. Introduction"
+        },
+        {
+            "_type": "paragraph",
+            "text": "Your privacy is important to us. This Privacy Policy explains how [Product / Template Name] collects, uses, and protects your information."
+        },
+        {
+            "_type": "heading",
+            "level": 2,
+            "text": "2. Information We Collect"
+        },
+        {
+            "_type": "paragraph",
+            "text": "We may collect the following information:"
+        },
+        {
+            "_type": "list",
+            "style": "bullet",
+            "items": [
+                "Email address (if you join a waitlist or contact us)",
+                "Basic usage data (such as page views and interactions)"
+            ]
+        },
+        {
+            "_type": "paragraph",
+            "text": "We do not knowingly collect sensitive personal data."
+        },
+        {
+            "_type": "heading",
+            "level": 2,
+            "text": "3. How We Use Information"
+        },
+        {
+            "_type": "paragraph",
+            "text": "We use collected information to:"
+        },
+        {
+            "_type": "list",
+            "style": "bullet",
+            "items": [
+                "Provide and improve the Service",
+                "Communicate updates or announcements",
+                "Understand how users interact with the website"
+            ]
+        },
+        {
+            "_type": "heading",
+            "level": 2,
+            "text": "4. Cookies & Analytics"
+        },
+        {
+            "_type": "paragraph",
+            "text": "We may use cookies or privacy-friendly analytics tools to understand website usage. These tools do not collect personally identifiable information."
+        },
+        {
+            "_type": "heading",
+            "level": 2,
+            "text": "5. Third-Party Services"
+        },
+        {
+            "_type": "paragraph",
+            "text": "The Service may integrate with third-party platforms such as:"
+        },
+        {
+            "_type": "list",
+            "style": "bullet",
+            "items": [
+                "Framer",
+                "Stripe (for payments)",
+                "Analytics providers"
+            ]
+        },
+        {
+            "_type": "paragraph",
+            "text": "These services have their own privacy policies, and we are not responsible for their practices."
+        },
+        {
+            "_type": "heading",
+            "level": 2,
+            "text": "6. Data Security"
+        },
+        {
+            "_type": "paragraph",
+            "text": "We take reasonable measures to protect your information, but no method of transmission over the internet is 100% secure."
+        },
+        {
+            "_type": "heading",
+            "level": 2,
+            "text": "7. Your Rights"
+        },
+        {
+            "_type": "paragraph",
+            "text": "Depending on your location, you may have the right to:"
+        },
+        {
+            "_type": "list",
+            "style": "bullet",
+            "items": [
+                "Access or delete your personal data",
+                "Request corrections",
+                "Withdraw consent"
+            ]
+        },
+        {
+            "_type": "paragraph",
+            "text": "To exercise these rights, contact us at [Your contact email]."
+        },
+        {
+            "_type": "heading",
+            "level": 2,
+            "text": "8. Changes to This Policy"
+        },
+        {
+            "_type": "paragraph",
+            "text": "We may update this Privacy Policy from time to time. Changes will be posted on this page."
+        },
+        {
+            "_type": "heading",
+            "level": 2,
+            "text": "9. Contact"
+        },
+        {
+            "_type": "paragraph",
+            "text": "If you have any questions about this Privacy Policy, please contact us at: [Your contact email]"
+        },
+        {
+            "_type": "spacer",
+            "size": 10
+        },
+        {
+            "_type": "paragraph",
+            "text": "Note: This document is provided as a general template and does not constitute legal advice."
+        }
+    ]
+}
