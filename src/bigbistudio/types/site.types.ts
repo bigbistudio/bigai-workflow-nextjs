@@ -24,6 +24,7 @@ export type Site = {
   footerCta: {
     title: string
     button: string
+    url: string
   }
 
   labels: {

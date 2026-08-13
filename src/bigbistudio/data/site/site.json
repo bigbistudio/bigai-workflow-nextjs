@@ -24,7 +24,8 @@
     },
     "footerCta": {
         "title": "Ready to automate the future?",
-        "button": "Start with this Next.js template"
+        "button": "Start with this Next.js template",
+        "url": "https://github.com/bigbi-studio/bigai-workflow-nextjs"
     },
     "labels": {
         "popular": "Popular",
