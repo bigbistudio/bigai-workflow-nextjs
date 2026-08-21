@@ -14,10 +14,18 @@ import type { LucideIconName } from "@/bigbistudio/utils/lucide-icons.maps"
 
 type ButtonType = "primary" | "secondary" | "ghost"
 
+const buttonVariants = {
+  primary: "default",
+  secondary: "secondary",
+  ghost: "ghost",
+} as const
+
 export function ButtonCtaGroup({ buttons }: SectionSettings) {
   return (
     <>
       {buttons?.map((item) => {
+        const buttonType = item.btnType as ButtonType
+
         const Icon = item.btnIcon
           ? lucideIcons[item.btnIcon as LucideIconName]
           : null
@@ -25,8 +33,9 @@ export function ButtonCtaGroup({ buttons }: SectionSettings) {
         return (
           <Button
             asChild
+            variant={buttonVariants[buttonType]}
             key={item.btnTitle}
-            className={cn(bigbiStyles.button[item.btnType as ButtonType])}
+            className={cn(bigbiStyles.button[buttonType])}
           >
             <Link href={item.btnUrl}>
               {item.btnTitle}

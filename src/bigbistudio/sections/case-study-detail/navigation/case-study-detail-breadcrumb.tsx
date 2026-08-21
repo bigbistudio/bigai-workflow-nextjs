@@ -19,7 +19,7 @@ export function CaseStudyDetailBreadcrumb({
 }: CaseStudyDetailBreadcrumbProps) {
   return (
     <Breadcrumb>
-      <BreadcrumbList className={cn("justify-center text-small!")}>
+      <BreadcrumbList className={cn("justify-center text-[13px]! text-ink-tertiary!")}>
         <BreadcrumbItem>
           <BreadcrumbLink href="/">{siteData.labels.homePage}</BreadcrumbLink>
         </BreadcrumbItem>
@@ -31,7 +31,7 @@ export function CaseStudyDetailBreadcrumb({
         </BreadcrumbItem>
         <span className="mx-1">/</span>
         <BreadcrumbItem>
-          <BreadcrumbPage>{companyName}</BreadcrumbPage>
+          <BreadcrumbPage className={cn("text-ink-primary!")}>{companyName}</BreadcrumbPage>
         </BreadcrumbItem>
       </BreadcrumbList>
     </Breadcrumb>

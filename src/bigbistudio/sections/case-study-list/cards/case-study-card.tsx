@@ -42,7 +42,7 @@ export function CaseStudyCard({ study }: CaseStudyCardProps) {
       </div>
       <div className="flex flex-col gap-4 lg:max-w-[80%]">
         <h2 className="text-extra-large font-normal">{meta.title}</h2>
-        <span className="text-small text-ink-tertiary">
+        <span className="text-small text-ink-quaternary">
           {siteData.labels.readMore}
         </span>
       </div>

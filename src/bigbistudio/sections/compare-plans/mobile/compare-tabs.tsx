@@ -27,7 +27,7 @@ export function CompareTabs({
         <button
           key={plan.id}
           className={cn(
-            "flex justify-center items-center gap-2.5 text-body-medium! p-2.5 rounded-lg",
+            "flex justify-center items-center gap-2.5 text-body-medium! p-2 rounded-lg",
             plan.id === selectedPlanId
               ? "bg-action-secondary-ink text-action-primary-ink"
               : "bg-transparent",

@@ -77,7 +77,7 @@ export function ContactForm({ className }: ContactFormProps) {
           <Field data-invalid={fieldState.invalid}>
             <FieldLabel
               htmlFor="name"
-              className={cn("text-small! font-normal text-ink-quaternary")}
+              className={cn("text-small! font-normal text-ink-tertiary")}
             >
               {siteData.form.name.label}
             </FieldLabel>
@@ -107,7 +107,7 @@ export function ContactForm({ className }: ContactFormProps) {
           <Field data-invalid={fieldState.invalid}>
             <FieldLabel
               htmlFor="email"
-              className={cn("text-small! font-normal text-ink-quaternary")}
+              className={cn("text-small! font-normal text-ink-tertiary")}
             >
               {siteData.form.email.label}
             </FieldLabel>
@@ -138,7 +138,7 @@ export function ContactForm({ className }: ContactFormProps) {
           <Field data-invalid={fieldState.invalid}>
             <FieldLabel
               htmlFor="message"
-              className={cn("text-small! font-normal text-ink-quaternary")}
+              className={cn("text-small! font-normal text-ink-tertiary")}
             >
               {siteData.form.message.label}
             </FieldLabel>
@@ -195,6 +195,7 @@ export function ContactForm({ className }: ContactFormProps) {
 
       <Button
         type="submit"
+        variant="secondary"
         disabled={isPending}
         className={cn(bigbiStyles.button.secondary, "w-full")}
       >

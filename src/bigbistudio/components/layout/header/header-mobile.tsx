@@ -51,7 +51,7 @@ export function HeaderMobile({
                 <Link
                   href={link.href}
                   onClick={onClose}
-                  className="w-full text-center text-large font-medium text-ink-secondary x-3 py-2.5"
+                  className="w-full text-center text-body-large font-medium text-ink-secondary x-3 py-2.5"
                 >
                   {link.label}
                 </Link>

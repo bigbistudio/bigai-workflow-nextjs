@@ -1,10 +1,10 @@
 export const bigbiStyles = {
   button: {
     primary:
-      "bg-primary text-primary-foreground! border border-line-tertiary! rounded-md px-4 py-5 text-body-medium! leading-6 cursor-pointer hover:bg-white hover:brightness-125",
+      "bg-primary! text-primary-foreground! border border-line-tertiary! rounded-md px-4 py-5 text-body-medium! leading-6 cursor-pointer hover:bg-white hover:brightness-125",
 
     secondary:
-      "bg-surface-quaternary! text-ink-primary border border-line-tertiary! rounded-md px-4 py-5 text-body-medium! leading-6 cursor-pointer hover:bg-surface-quaternary! hover:brightness-125",
+      "bg-secondary! text-secondary-foreground! border border-line-tertiary! rounded-md px-4 py-5 text-body-medium! leading-6 cursor-pointer hover:bg-surface-quaternary! hover:brightness-125",
 
     ghost:
       "bg-transparent text-ink-secondary rounded-md px-4 py-5 text-body-medium! leading-6 cursor-pointer hover:bg-white/5 hover:brightness-125",
@@ -18,4 +18,6 @@ export const bigbiStyles = {
 
   textarea:
     "bg-surface-tertiary! text-ink-primary border border-line-tertiary! rounded-md p-2.5 min-h-24 text-body-large! placeholder:text-ink-tertiary!",
+
+  toggle: "border border-[#FFFFFF15] bg-action-secondary-surface! w-8.25! h-5! rounded-[100px] data-checked:bg-brand-surface! **:data-[slot=switch-thumb]:bg-white! **:data-[slot=switch-thumb]:size-3.5 **:data-[slot=switch-thumb]:data-unchecked:translate-x-0.75 **:data-[slot=switch-thumb]:data-checked:translate-x-full cursor-pointer",
 }

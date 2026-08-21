@@ -14,16 +14,19 @@ type CompareFooterProps = {
 }
 
 export function CompareFooter({ selectedPlan }: CompareFooterProps) {
+  const buttonVariants = {
+    primary: "default",
+    secondary: "secondary",
+  } as const
+
+  const buttonType = selectedPlan.popular ? "primary" : "secondary"
+
   return (
     <div className="px-0 py-6">
       <Button
         asChild
-        className={cn(
-          selectedPlan.popular
-            ? bigbiStyles.button.primary
-            : bigbiStyles.button.secondary,
-          "w-full",
-        )}
+        variant={buttonVariants[buttonType]}
+        className={cn(bigbiStyles.button[buttonType], "w-full")}
       >
         <Link href={selectedPlan.button ? selectedPlan.button.href : "#"}>
           {selectedPlan.button?.label}

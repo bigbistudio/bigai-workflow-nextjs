@@ -1,21 +1,21 @@
 {
   "home": {
-    "title": "AI Workflow & Automation Website Template",
+    "title": "bigA.i - AI Workflow & Automation Website Template",
     "description": "Launch your AI startup faster with a modern Next.js website template featuring reusable components, responsive layouts, and production-ready pages."
   },
 
   "features": {
-    "title": "Features",
+    "title": "bigA.i Features - AI Workflow Automation Capabilities",
     "description": "Explore the features included in the template, from reusable UI components and SEO optimization to responsive layouts and developer-friendly architecture."
   },
 
   "caseStudies": {
-    "title": "Case Studies",
+    "title": "bigA.i Case Studies - Real Workflow Automation Results",
     "description": "Discover real-world examples and showcase projects built with the AI Workflow & Automation Website Template."
   },
 
   "pricing": {
-    "title": "Pricing",
+    "title": "bigA.i Pricing - Flexible Plans for AI Workflow Automation",
     "description": "Compare plans and choose the option that best fits your project, team, and support requirements.",
     "keywords": [
       "pricing",
@@ -25,17 +25,17 @@
   },
 
   "about": {
-    "title": "About",
+    "title": "bigA.i About - AI Agency Template",
     "description": "Learn more about bigA.i and our mission to build high-quality templates and tools for modern web development."
   },
 
   "blog": {
-    "title": "Blog",
+    "title": "bigA.i Blog - Insights on AI Workflows and Automation",
     "description": "Read tutorials, product updates, and best practices for building modern websites with Next.js, AI, and automation."
   },
 
   "contact": {
-    "title": "Contact",
+    "title": "bigA.i Contact - Get in Touch for AI Workflow Solutions",
     "description": "Get in touch with bigA.i to ask questions, request support, or discuss your next web project."
   },
 

@@ -20,7 +20,7 @@ export function FeatureCarouselCard({ card, onOpen }: FeatureCarouselCardProps) 
     <div className="p-1">
       <Card
         onClick={() => onOpen(card)}
-        className="group cursor-pointer rounded-[30px] bg-surface-tertiary py-0 shadow-none ring-0 transition-colors duration-300 ease-in-out hover:bg-surface-quaternary"
+        className="group cursor-pointer rounded-4xl bg-surface-tertiary py-0 shadow-none ring-0 hover:bg-linear-to-t hover:from-surface-tertiary hover:to-surface-quaternary transition-colors duration-300 ease-in-out"
       >
         <CardContent className="relative flex aspect-square flex-col justify-between px-0">
           <Image
@@ -34,7 +34,7 @@ export function FeatureCarouselCard({ card, onOpen }: FeatureCarouselCardProps) 
           <div className="flex items-center justify-between px-6 pb-5">
             <span className="text-large text-ink-primary">{card.title}</span>
 
-            <div className="flex h-10 w-10 items-center justify-center rounded-full border-2 border-[#232326] group-hover:bg-[#232326]">
+            <div className="flex h-10 w-10 items-center justify-center rounded-full border-2 border-line-translucent group-hover:border-transparent group-hover:bg-surface-quaternary transition-colors duration-300 ease-in-out">
               <Plus
                 size={18}
                 strokeWidth={2.5}

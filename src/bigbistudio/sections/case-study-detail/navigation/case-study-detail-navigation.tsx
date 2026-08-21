@@ -69,7 +69,7 @@ function CaseStudyNavigationCard({
       <div
         className={cn(
           align === "right" ? "ml-auto text-right" : "",
-          "flex flex-col gap-1",
+          "flex flex-col",
         )}
       >
         <span className="text-small text-ink-tertiary">{direction}</span>

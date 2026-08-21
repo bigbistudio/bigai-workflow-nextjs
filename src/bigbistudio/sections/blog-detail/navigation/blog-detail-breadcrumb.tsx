@@ -17,7 +17,7 @@ type BlogDetailBreadcrumbProps = {
 export function BlogDetailBreadcrumb({ blogTitle }: BlogDetailBreadcrumbProps) {
   return (
     <Breadcrumb>
-      <BreadcrumbList className={cn("justify-center text-small!")}>
+      <BreadcrumbList className={cn("justify-center text-[13px]! text-ink-tertiary!")}>
         <BreadcrumbItem>
           <BreadcrumbLink href="/">{siteData.labels.homePage}</BreadcrumbLink>
         </BreadcrumbItem>
@@ -29,7 +29,7 @@ export function BlogDetailBreadcrumb({ blogTitle }: BlogDetailBreadcrumbProps) {
         </BreadcrumbItem>
         <span className="mx-1">/</span>
         <BreadcrumbItem>
-          <BreadcrumbPage>{blogTitle}</BreadcrumbPage>
+          <BreadcrumbPage className={cn("text-ink-primary!")}>{blogTitle}</BreadcrumbPage>
         </BreadcrumbItem>
       </BreadcrumbList>
     </Breadcrumb>

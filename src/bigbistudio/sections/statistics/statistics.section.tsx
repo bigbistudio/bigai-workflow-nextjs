@@ -21,7 +21,7 @@ export function StatisticsSection({
     <section className="container flex flex-col gap-16 py-20">
       <span
         className={cn(
-          "text-ink-tertiary pb-3 border-b border-line-primary w-full",
+          "text-ink-tertiary! pb-3 border-b border-line-tertiary w-full",
           bigText ? "text-body-large" : "text-small",
         )}
       >

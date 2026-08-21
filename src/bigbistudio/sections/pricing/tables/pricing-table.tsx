@@ -28,16 +28,32 @@ export function PricingTable() {
             typeof plan.yearlyPrice === "number" &&
             typeof plan.monthlyPrice === "number"
 
+          const buttonVariants = {
+            primary: "default",
+            secondary: "secondary",
+          } as const
+
+          const buttonType = plan.popular ? "primary" : "secondary"
+
           return (
             <div
               key={plan.title}
               className={cn(
-                plan.popular ? "bg-surface-quaternary" : "bg-surface-secondary",
-                "flex flex-col flex-1 border border-line-secondary rounded-2xl",
+                plan.popular
+                  ? "bg-surface-quaternary border-line-secondary"
+                  : "bg-surface-secondary border-line-primary",
+                "flex flex-col flex-1 border rounded-2xl",
               )}
             >
               <div className="flex flex-col flex-1">
-                <div className="flex flex-col gap-2.5 p-6 border-b border-line-secondary">
+                <div
+                  className={cn(
+                    "flex flex-col gap-2.5 p-6 border-b",
+                    plan.popular
+                      ? "border-line-secondary"
+                      : "border-line-primary",
+                  )}
+                >
                   <div className="flex justify-between">
                     <span className="text-lead">{plan.title}</span>
                     {plan.popular && (
@@ -87,17 +103,16 @@ export function PricingTable() {
                   }
                   className={cn(
                     hasPricingToggle && "cursor-pointer",
-                    "flex gap-2.5 p-6 border-b border-line-secondary",
+                    "flex gap-2.5 p-6 border-b",
+                    plan.popular
+                      ? "border-line-secondary"
+                      : "border-line-primary",
                   )}
                 >
                   {hasPricingToggle && (
                     <Switch
                       checked={yearly}
-                      className={cn(
-                        "border border-[#FFFFFF15] bg-transparent! w-8.25! h-5! rounded-[100px]",
-                        "data-checked:bg-[#3B82F6]! **:data-[slot=switch-thumb]:bg-white! **:data-[slot=switch-thumb]:size-3.5",
-                        "**:data-[slot=switch-thumb]:data-unchecked:translate-x-0.75 **:data-[slot=switch-thumb]:data-checked:translate-x-full",
-                      )}
+                      className={cn(bigbiStyles.toggle)}
                     />
                   )}
                   <span className="text-body text-ink-tertiary">
@@ -117,12 +132,8 @@ export function PricingTable() {
               <div className="p-6">
                 <Button
                   asChild
-                  className={cn(
-                    plan.popular
-                      ? bigbiStyles.button.primary
-                      : bigbiStyles.button.secondary,
-                    "w-full",
-                  )}
+                  variant={buttonVariants[buttonType]}
+                  className={cn(bigbiStyles.button[buttonType], "w-full")}
                 >
                   <Link href={plan.cta.href}>{plan.cta.label}</Link>
                 </Button>

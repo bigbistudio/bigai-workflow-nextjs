@@ -79,8 +79,8 @@ export function PortableText({ blocks }: PortableTextProps) {
                 <Image
                   src={block.src}
                   alt={block.alt ?? ""}
-                  width={block.width ?? 600}
-                  height={block.height ?? 360}
+                  width={block.width ?? 680}
+                  height={block.height ?? 350}
                   style={{ borderRadius: block.rounded ?? 0 + `px` }}
                 />
                 {block.alt && (

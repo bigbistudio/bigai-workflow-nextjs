@@ -82,7 +82,7 @@ export function Header() {
                     <Link
                       href={link.href}
                       className={cn(
-                        "px-3 py-2.5 text-small! font-medium rounded-lg hover:bg-white/5 hover:text-ink-primary transition-all",
+                        "px-3 py-2.5 text-small! rounded-lg hover:bg-white/5 hover:text-ink-primary transition-all",
                       )}
                     >
                       {link.label}

@@ -8,7 +8,10 @@ import { bigbiStyles } from "@/bigbistudio/lib/bigbistyles"
 import { Button } from "@/components/ui/button"
 
 // Types
-import type { Plan, ComparePlansLabels } from "@/bigbistudio/types/compare-plans.types"
+import type {
+  Plan,
+  ComparePlansLabels,
+} from "@/bigbistudio/types/compare-plans.types"
 
 type CompareFooterProps = {
   plans: Plan[]
@@ -25,23 +28,28 @@ export function CompareFooter({ plans, labels }: CompareFooterProps) {
             {labels?.footer}
           </div>
         </td>
-        {plans.map((plan) => (
-          <td key={plan.id} className="px-6 py-4">
-            <Button
-              asChild
-              className={cn(
-                plan.popular
-                  ? bigbiStyles.button.primary
-                  : bigbiStyles.button.secondary,
-                "w-full",
-              )}
-            >
-              <Link href={plan.button ? plan.button.href : "#"}>
-                {plan.button?.label}
-              </Link>
-            </Button>
-          </td>
-        ))}
+        {plans.map((plan) => {
+          const buttonVariants = {
+            primary: "default",
+            secondary: "secondary",
+          } as const
+
+          const buttonType = plan.popular ? "primary" : "secondary"
+
+          return (
+            <td key={plan.id} className="px-6 py-4">
+              <Button
+                asChild
+                variant={buttonVariants[buttonType]}
+                className={cn(bigbiStyles.button[buttonType], "w-full")}
+              >
+                <Link href={plan.button ? plan.button.href : "#"}>
+                  {plan.button?.label}
+                </Link>
+              </Button>
+            </td>
+          )
+        })}
       </tr>
     </tfoot>
   )
