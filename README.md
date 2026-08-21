@@ -1,8 +1,12 @@
 # bigA.i Workflow Next.js Template
 
-An open-source AI Workflow & Automation Website Template built with Next.js and TypeScript.
+**bigA.i Workflow Next.js Template** is the open-source Next.js implementation of our original [bigA.i Workflow Framer Template](<https://www.framer.com/community/marketplace/templates/biga-i-workflow-2-0/>).
 
-bigA.i Workflow is a modern, production-ready website template for AI startups, automation products, and SaaS businesses. It provides reusable sections, structured content, responsive layouts, and a scalable project architecture.
+The Framer template provides the original design direction and visual foundation, while this Next.js version brings the same workflow-first approach to a production-ready, developer-friendly environment.
+
+bigA.i Workflow is a modern website template for AI startups, automation products, and SaaS businesses. It provides reusable sections, structured content, responsive layouts, and a scalable project architecture.
+
+Framer Template: [bigA.i Workflow — AI Workflow & Automation Website Template](<https://www.framer.com/community/marketplace/templates/biga-i-workflow-2-0/>)
 
 ## Features
 
@@ -36,26 +40,26 @@ bigA.i Workflow is a modern, production-ready website template for AI startups, 
 
 Clone the repository:
 
-```bash
+```
 git clone https://github.com/bigbi-studio/bigai-workflow-nextjs.git
 cd bigai-workflow-nextjs
 ```
 
 Install dependencies:
 
-```bash
+```
 npm install
 ```
 
 Create your local environment file:
 
-```bash
+```
 cp .env.example .env.local
 ```
 
 Start the development server:
 
-```bash
+```
 npm run dev
 ```
 
@@ -82,31 +86,31 @@ Never commit `.env.local` or other files containing private credentials.
 
 Start the development server:
 
-```bash
+```
 npm run dev
 ```
 
 Run ESLint:
 
-```bash
+```
 npm run lint
 ```
 
 Run the TypeScript check:
 
-```bash
+```
 npm run typecheck
 ```
 
 Create a production build:
 
-```bash
+```
 npm run build
 ```
 
 Start the production server locally:
 
-```bash
+```
 npm run start
 ```
 
@@ -114,13 +118,13 @@ npm run start
 
 Create an optimized production build:
 
-```bash
+```
 npm run build
 ```
 
 After the build completes, start the production server:
 
-```bash
+```
 npm run start
 ```
 
