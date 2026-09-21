@@ -41,7 +41,7 @@ Framer Template: [bigA.i Workflow — AI Workflow & Automation Website Template]
 Clone the repository:
 
 ```
-git clone https://github.com/bigbi-studio/bigai-workflow-nextjs.git
+git clone https://github.com/bigbistudio/bigai-workflow-nextjs.git
 cd bigai-workflow-nextjs
 ```
 
